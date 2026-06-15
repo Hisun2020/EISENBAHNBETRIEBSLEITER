@@ -1,0 +1,11 @@
+# Umgebungsvariablen mit sensiblen Schlüsseln
+.env
+.env.*
+!.env.example
+
+# Lokale Build-/Cache- und IDE-Dateien
+node_modules/
+dist/
+build/
+.vscode/
+.DS_Store
