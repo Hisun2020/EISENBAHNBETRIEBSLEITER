@@ -9,3 +9,12 @@ dist/
 build/
 .vscode/
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lokale Ergebnisdateien
+results/
