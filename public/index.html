@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eisenbahnbetriebsleiter – Tool</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>🚂 Eisenbahnbetriebsleiter</h1>
+      <nav>
+        <button class="tab active" data-tab="places">
+          📍 Google Places Suche
+        </button>
+        <button class="tab" data-tab="tracks">🛤️ Industriegleis-Suche</button>
+      </nav>
+    </header>
+
+    <main>
+      <!-- TAB 1: Places Suche -->
+      <section id="tab-places" class="tab-content active">
+        <h2>Orte suchen (Google Places API)</h2>
+        <div class="search-row">
+          <input
+            type="text"
+            id="places-input"
+            placeholder="z. B. Berlin Hauptbahnhof, Hamburg Hbf..."
+          />
+          <select id="places-type">
+            <option value="">Alle Typen</option>
+            <option value="train_station">Bahnhof</option>
+            <option value="transit_station">Transit-Station</option>
+            <option value="airport">Flughafen</option>
+            <option value="establishment">Einrichtung</option>
+          </select>
+          <button id="places-search-btn">Suchen</button>
+        </div>
+        <div id="places-results" class="results-box"></div>
+        <div id="places-details" class="details-box"></div>
+      </section>
+
+      <!-- TAB 2: Industriegleise -->
+      <section id="tab-tracks" class="tab-content">
+        <h2>Industriegleise per Bundesland suchen</h2>
+        <div class="search-row">
+          <select id="state-select">
+            <option value="">– Bundesland auswählen –</option>
+            <option value="Baden-Württemberg">Baden-Württemberg</option>
+            <option value="Bayern">Bayern</option>
+            <option value="Berlin">Berlin</option>
+            <option value="Brandenburg">Brandenburg</option>
+            <option value="Bremen">Bremen</option>
+            <option value="Hamburg">Hamburg</option>
+            <option value="Hessen">Hessen</option>
+            <option value="Mecklenburg-Vorpommern">
+              Mecklenburg-Vorpommern
+            </option>
+            <option value="Niedersachsen">Niedersachsen</option>
+            <option value="Nordrhein-Westfalen">Nordrhein-Westfalen</option>
+            <option value="Rheinland-Pfalz">Rheinland-Pfalz</option>
+            <option value="Saarland">Saarland</option>
+            <option value="Sachsen">Sachsen</option>
+            <option value="Sachsen-Anhalt">Sachsen-Anhalt</option>
+            <option value="Schleswig-Holstein">Schleswig-Holstein</option>
+            <option value="Thüringen">Thüringen</option>
+          </select>
+          <button id="tracks-search-btn">Suchen</button>
+        </div>
+        <div id="tracks-status"></div>
+        <div id="tracks-results" class="results-box"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>API-Status: <span id="api-status">Prüfe Verbindung...</span></p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

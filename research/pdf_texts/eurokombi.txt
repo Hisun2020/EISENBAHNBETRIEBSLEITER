@@ -1,0 +1,480 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutzungsbedingungen (NBS) – Betrieblicher Teil 
+des EUROGATE Container Terminals  
+ 
+für die Bahnanlagen des EUROGATE Container Terminals Hamburg GmbH. 
+ 
+Betrieben durch: 
+ 
+EUROKOMBI Terminal GmbH 
+Im Hamburger Hafen 
+ 
+HE-Gleisanschluss 400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+          
+ 
+        Eisenbahnbetriebsleiter  
+ 
+ 
+ 
+              gez. Medenwald 
+ 
+                 
+ 
+ 
+          Gültig ab 06.06.2025  
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 2 
+ 
+ 
+ 
+    Jeweils letzte Änderungen sind durch einen roten, senkrechten Strich am Seitenrand gekennzeichnet   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Berichtigungen 
+ 
+ 
+Lfd. Nr. 
+ 
+Gültig ab 
+     
+In die NBS eingearbeitet 
+  am durch 
+1 01.09.2008 01.09.2008 Lange/Witschkowski 
+2 01.08.2010 07.07.2010 Lange/Witschkowski 
+3 01.04.2011 25.03.2011 Lange/Witschkowski 
+4 01.07.2012 11.06.2012 Lange/Witschkowski 
+5 01.08.2012 03.07.2012 Lange/Witschkowski 
+6 19.11.2012 14.11.2012 Lange/Witschkowski 
+7 01.02.2014 16.01.2014 Lange/Witschkowski 
+8 01.05.2015 10.04.2015 Mörchen-Klaffke/Witschkowski 
+9 01.12.2015 17.11.2015 Mörchen-Klaffke/Witschkowski 
+10 01.05.2016 24.04.2016 Mörchen-Klaffke/Witschkowski 
+11 01.01.2017 18.08.2016 Mörchen-Klaffke/Witschkowski 
+12 15.12.2019 13.12.2019 Stolter 
+13 06.06.2025 06.06.2025 Medenwald 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 3 
+ 
+Verteilungsplan: 
+ 
+Leiter Eurokombi  
+EBL/EBLV 
+LEA Hamburg 
+ 
+ 
+ 
+Wichtige Rufnummern der Ansprechpartner: 
+ 
+ EBL   Medenwald, Erik    Tel.:  0160 / 2517401   
+ Vertreter des EBL  Schmidt, Lutz     Tel.:  0170 / 45 26 901  
+ Notfallmanagement        Tel.:  0171 5687 558  
+ Anlagenverantwortlicher Oberleitung  (Rüdiger Rosin)  Tel.:  0171 220 3204  
+ Landeseisenbahnaufsicht (LEA)      Tel.:  040 42841 3695  
+ Eurokombi Dispo-Zentrale        Tel.:  040 7405 1953 
+ Port Security (Notfall, 24h / 7 Tage pro Woche)   Tel.:  040 7405 2702 
+ Fahrdienstleiter         Tel.:  040 42847 3473 
+ Netzkoordinator        Tel.:  040 42847 3476  
+ 
+ 
+ 
+Inhaltsverzeichnis: 
+ 
+1. Beschreibung der Anlage 
+2. Durchführen der Bedienungen 
+3. Aufgaben des Anschließers 
+4. Sonstige Aufgaben 
+ 
+ 
+ 
+ 
+ 
+Verzeichnis der Anhänge: 
+            Anhang 
+ Gleisplan (Stand 15.12.2019)     1 
+ Bedienungsanweisung EOW (Stand 01.01.2017)  2 
+ Bestimmungen Oberleitung (Stand 23.09.2008)  3 
+ Direkt Ein-/Ausfahrt (Stand 17.11.2015)   4 
+ Alarmplan (Stand 12.08.2012)     5     
+  
+  
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 4 
+ 
+ 
+VORBEMERKUNGEN 
+ 
+Örtlich eingesetztes Personal der einzelnen EVU müssen die Nutzungsbedingungen (NBS) des  
+EUROKOMBI  Container Terminals;   Betrieblicher Teil,  Anlage 1 beherrschen. 
+ 
+Soweit nicht anders gekennzeichnet, gelten die nachfolgenden Richtlinien für den ge-
+samten Bereich. 
+ 
+ 
+Regelwerke der Deutschen Bahn AG und VDV-Schriften, die auf der Eisenbahninfrastruk-
+tur des Gleisanschlusses HE 480 A Anwendung finden: 
+ 
+Bezugsquellen für Regelwerke der Deutschen Bahn AG: 
+ 
+DB Kommunikationstechnik GmbH 
+Medien- und Kommunikationsdienste 
+Logistikcenter (Drucksachenzentrale) 
+Kriegstraße 136 
+76133 Karlsruhe 
+ 
+und Download im Internet. 
+ 
+Bezugsquellen für VDV-Schriften: 
+ 
+VDV Köln 
+Kamekestraße 37-39 
+50672 Köln 
+ 
+Es gelten die jeweils gültigen Fassungen. 
+ 
+Regelwerk – Nr.  Kurzbezeichnung 
+301 Signalbuch 
+408.21-27 Fahrdienstvorschrift; Züge fahren 
+408.48 Fahrdienstvorschrift; Rangieren 
+VDV-Schrift 753 Eisenbahnfahrzeug-Führerschein-Richtlinie  
+VDV-Schrift 755 Streckenkenntnis-Richtlinie 
+482.8002 Signalanlagen bedienen; Ortsgestellte Weichen und Gleissperren, 
+Allgemeines 
+482.8003 Signalanlagen bedienen; Mechanisch ortsgestellte Weichen und 
+Gleissperren bedienen 
+482.8004 Signalanlagen bedienen; Elektrisch ortsgestellte Weichen bedienen 
+TfV Triebfahrzeugführerscheinverordnung 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 5 
+1. Beschreibung des Anschlusses / der Anlage 
+ 
+1.1 
+ 
+A) Grenzen des Anschlusses / der Anlage 
+ 
+ Das Terminal schließt über Gleis 75, hinter Weiche 086, und Gleis 76, hinter Weiche 
+076 an das EIU HPA an.  
+ Modul 1 ist über beide Anschlussgleise erreichbar, Modul 2 kann nur über das An-
+schlussgleis 76 erreicht werden 
+ Regelbetrieb:  
+o Einfahrt in und Ausfahrt aus beiden Modulen über Gleis 76  
+(Gleis 75 nur bei Störungen und nach Absprache mit dem EUROKOMBI-
+Bahnbüro verwenden.  
+In der Regel sind parallele Ausfahrten daher nicht vorgesehen!) 
+ 
+B ) Beschreibung des EUROKOMBI / Gleisanlagen und ihre Nutzung    
+ (siehe Gleisplan) 
+ 
+ Gleisanlage 
+ 
+Gleis: Nutzlänge [m] Kranbare Länge [m] 
+21 710 710 
+22 710 710 
+23 695 695 
+24 710 695 
+25 640 640 
+26 645 640 
+36 714 695 
+37 713 695 
+38 744 695 
+39 709 660 
+40 710 660 
+ 
+ Im Bereich des KLV-Bahnhofs stehen bei angekündigten Bedienungsfahrten ständig Be-
+schäftigte der Firma Eurokombi zur Verfügung, die für alle an der Bedienungsfahrt Betei-
+ligten Ansprechpartner sind (Besetzungszeiten gemäß „NBS besonderer Teil“). 
+ 
+In Gleis 76 befindet sich zwischen der Schranke und der Weiche 1 ein Traingate  
+(-Portal) zur automatischen Erfassung u. a. von Waggon- und Containernummern.  
+Die seitlich und oberhalb des Portals angebrachten Lichtpaneele sind mit 10 Prozent Leucht-
+kraft im Dauerbetrieb. Eine Aktivierung der vollen Leistung der Lichtpaneele erfolgt ca. 4 m vor 
+Durchfahrt und endet automatisch nach der Durchfahrt. 
+ 
+ 
+1.2. Gleisanlagen und ihre Nutzung 
+ 
+a) Rangierbezirke  
+entfällt 
+ 
+b) Anschlussgleise im EUROKOMBI -Terminal 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 6 
+           entfällt 
+ 
+1.3  Aufbewahrung Sicherungsmittel 
+  entfällt 
+ 
+1.4  Übergabestelle und Bedienungsbereich der EVU 
+Die Übergabestelle ist das jeweilige, durch die Dispo-Zentrale Eurokombi zugewiesene 
+ freie Gleis. 
+ 
+1.5  Halbmesser der Gleise kleiner als 150 m 
+       entfällt  
+ 
+1.6  Signalanlagen 
+ EOW-Anlage (Beschreibung und Bedienungsanweisung in Anhang 2) 
+      Gefahrpunkte und Ladegleise in Bearbeitung werden durch Sh 2 – Scheiben abgeriegelt. 
+  
+1.7  Bahnübergänge 
+ Bahnübergänge 1 bis 5 vorhanden. 
+ (siehe Anhang 1) 
+ 
+1.8  Oberleitungsanlagen mit Schalter (Mastnummer,Schalterangabe) 
+Bestimmungen Oberleitung:  siehe Anhang 3 
+Direkt Ein-/Ausfahrt    : siehe Anhang 4 
+ 
+1.9   Sonstige betriebliche Einrichtungen des Gleisanschlusses 
+Die Gleisanlage ist mit mehreren Portalkränen (Transtainerbrücken) ausgerüstet.  
+ 
+1.10 Brücken, Durchlässe 
+entfällt 
+ 
+1.11  Telekommunikationsanlagen 
+ In der Eurokombi Dispo-Zentrale befinden sich Telefone und Fax-Geräte 
+ An der Fahrwegstelltafel befindet sich ein Fernsprecher 
+ 
+1.12  Einfriedungen und Tore, Bedienung durch Werkspersonal 
+         Hallentore / Bedienung der Hallengleise: 
+  
+Zur Sicherung des Terminalbereichs befindet sich in den Zuführungsgleisen je eine Dop-
+pelschrankenanlage, welche im geschlossenen Zustand mit einer Sh 2 – Scheibe ge-
+kennzeichnet ist. Die Schrankenanlage ist im normalen Betrieb geschlossen. 
+Die Schranken öffnen automatisch nach Einstellen des Fahrwegs. 
+ 
+ Die Gleisschrankenanlagen sind mit einer Signalisierung ausgestattet (Abbildung 1): 
+ Signal dunkel: Schranke ist geschlossen – Durchfahrt nicht zulässig 
+ Weißes Dauerlicht: Schranken sind geöffnet – Durchfahrt ist zulässig 
+ Weißes Blinklicht: der Schließvorgang hat begonnen – Durch- bzw. Weiterfahrt ist 
+nicht zulässig – EOW/ET erneut bedienen. 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 7 
+  
+ 
+Eurokombi betreibt ein digitales Videoüberwachungssystem. Das Betriebsgelände wird 
+permanent mittels Kamera überwacht. Das System ist im Port Security Gebäude und in 
+der Eurokombi Dispo –Zentrale aufgeschaltet.  
+ 
+1.13  Beleuchtung und Lage der Schalter 
+Die Anlage ist bei Dunkelheit beleuchtet. 
+ 
+1.14  Betriebseinschränkungen 
+Höchstzulässiger Grenzwert für Rangierabteilungen:   
+ 700 m 
+ 2500 t  
+ 
+1.15  Verladeeinrichtungen 
+Es dürfen keine Lasten über Personen und Triebfahrzeuge bewegt werden. 
+Der Kranbetrieb darf während der Rangierarbeiten weitergeführt werden. 
+ 
+ Es wird bei Bewegung über dem Gleisbereich zwischen Spreader bzw.  Lastunter-
+kante und Schienenoberkante eine minimale Höhe von 5,30 m eingehalten. 
+ 
+ 
+2. Durchführen der Bedienung 
+ 
+2.1 Allgemeines  
+Die Bedienung der EOW Anlage (siehe Anhang 2) zum Befahren der Gleisanlage erfolgt 
+durch das EVU. 
+ 
+In Bearbeitung befindliche Gleise werden durch Sh2-Scheiben gesperrt. Diese werden 
+durch Beschäftigte des Anschließers aufgestellt und entfernt. 
+ 
+2.2 Verständigen des Anschließers über die Bedienung  
+Siehe 2.4 
+ 
+2.3 Verwendung der Weichenschlüssel, Abhängigkeiten  
+Entfällt 
+ 
+2.4 Kommunikation der einzelnen beteiligten EVU und EIU 
+Die Kommunikation über Rangierfahrten in, aus und innerhalb des Terminals wird über 
+die Eurokombi - Dispo-Zentrale telefonisch geführt (außer bei Nichtbesetzung gemäß 
+NBS Besonderer Teil). 
+Einfahrt: 
+Abbildung 1: Signalisierung an der Schrankenanlage 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 8 
+Bei Einfahrten in das Terminal fordert das EVU die Zustimmung zur Fahrt über den Fern-
+sprecher an der Fahrwegstelltafel (siehe Anhang 2) an. Nach erfolgter Zustimmung be-
+dient das EVU die EOW Anlage (siehe Anhang 2) und fährt in das Terminal ein. An der 
+EOW-Tafel wird das erfolgreiche Einlaufen der Weichen angezeigt. Zudem leuchten die 
+Weichenlagemelder blau auf und verdeutlichen so den vorgesehenen Rangierweg (siehe 
+auch Anhang 2). 
+ 
+Die Abstellposition der Wagen / Waggongruppen wird bei tel. Anmeldung des Rangierers 
+durch die Eurokombi Dispo-Zentrale vorgegeben. 
+Position 000: Wagen hinter der Lok steht am Beginn der Kranbahn (Richtung WHO) 
+Position 215: Spitze der abgestellten Wagen steht am Ende der Kranbahn (Ri. Prellbock) 
+ 
+Ausfahrt: 
+Das EVU fordert bei Ausfahrten die Zustimmung zur Fahrt beim Fahrdienstleiter  
+Dradenau an. Nach erfolgter Zustimmung informiert der Triebfahrzeugführer telefonisch 
+(Mobiltelefon) unmittelbar vor der Ausfahrt den Dispo Eurokombi. Bei der Ausfahrt stellt 
+sich der Fahrweg automatisch ein. Auch hier erfolgt nach erfolgreichem Umstellen der 
+Weichen die Blauausleuchtung. Ausnahme: Wenn auf besondere Vereinbarung mit dem 
+Fahrdienstleiter Dradenau auf Gleis 75 ausgefahren werden soll, ist Weiche 11 per 
+Schlagtasterbedienung umzustellen. 
+ 
+Fahrten innerhalb des Terminals: 
+Bei Fahrten innerhalb des Terminals ist grundsätzlich hinter die Fahrwegstelltafel bzw. 
+den Fernsprecher zu fahren. Vor der Fahrt in diese Richtung ist die Zustimmung des 
+Fahrdienstleiter Dradenau einzuholen (Hinweis: Wenn auf besondere Vereinbarung mit 
+dem Fahrdienstleiter Dradenau auf Gleis 75 hinter die Stelltafel gefahren werden soll, ist 
+Weiche 11 per Schlagtasterbedienung umzustellen). Das EVU fordert dort erneut über 
+den Fernsprecher die Zustimmung von der Eurokombi Dispo – Zentrale an. Nach Zustim-
+mung darf das EVU in das zugewiesene Gleis fahren. 
+ 
+2.5 Zuständigkeiten des EVU 
+  
+Personen dürfen nicht unter schwebende Lasten treten. 
+ 
+Schäden, die durch das EVU an der Infrastruktur verursacht wurden, sind unverzüglich 
+der Eurokombi Dispo - Zentrale anzuzeigen (z.B. Auffahren von Weichen, Verunreinigun-
+gen durch ausgelaufenes Öl, Beschädigung von Sh2 – Scheiben, Verschieben von Prell-
+böcken etc). 
+ 
+Rangiergriffe sind vor der Entladung bzw. Verladung einzuklappen 
+ 
+Vor Abfahrt aus dem Terminal ist vom EVU die Fahrbereitschaft festzustellen. Hierbei 
+festgestellte Schäden und Mängel (auch Verlademängel) an Fahrzeugen und Containern 
+sind unverzüglich vor der Abfahrt der Aufsicht Bahn (Bahnkabine) zu melden und zu do-
+kumentieren. 
+ 
+Die Beschäftigten der EVU müssen bei ihrer Tätigkeit außerhalb des Führerstandes ihres 
+Tfz folgende persönliche Schutzausrüstung tragen: 
+ 
+ Warnkleidung der Klasse 3 nach DIN EN ISO 20471 in Kombination lange Hose und 
+ein den Torso bedeckendes Oberteil 
+ Industrieschutzhelm nach DIN EN 397 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 9 
+ Sicherheitsschuhe nach DIN EN ISO 20345 
+ Schutzhandschuhe 
+ Darüberhinausgehende Schutzausrüstung hat jedes EVU in seiner Gefährdungsbeur-
+teilung festzulegen 
+  
+ 
+3.  Aufgaben des Anschließers 
+ 
+3.1     Zuständigkeiten Eurokombi 
+ 
+Beim Bewegen von Eisenbahnfahrzeugen durch das EVU hat Eurokombi seine Gleise 
+von Personen, Straßenfahrzeugen und sonstigen Hindernissen freizuhalten. Die Siche-
+rung höhengleicher Übergänge ist allein Sache Eurokombi. 
+ 
+Gegenstände dürfen nur in einem Abstand von mindestens 2,50 m von der Gleismitte ge-
+lagert werden. Das gelagerte Gut muss gegen Anrollen und Umstürzen gesichert sein. 
+  
+Eurokombi hat die Weichen und Spurrillen der Gleise von Laderückständen und von 
+Schnee und Eis freizuhalten. Das gilt auch für die Rangierwege, die außerdem bei Glät-
+tegefahr zu streuen sind. 
+ 
+Über Rangierpersonal und Lokomotiven dürfen Kräne nicht hinwegdrehen.  
+ 
+Eurokombi stellt sicher, dass das Lichtraumprofil (min. 5,30 m über SO) freigehalten wird. 
+ 
+ 
+3.2   Be- und Entladen der Eisenbahnwagen 
+Eisenbahnwagen dürfen während der Rangierarbeiten der EVU weder be- oder entladen 
+noch verschoben werden. 
+ 
+3.3 Warnen der Beschäftigten 
+Unmittelbar vor dem Befahren des Terminals wird die Eurokombi Dispo-Zentrale fern-
+mündlich durch die EVU verständigt. 
+ 
+Die Eurokombi Zentrale warnt alle im Gleisbereich eingesetzten Beschäftigten. 
+ 
+Die Sicherung von besetzten Gleisen wird mittels Sh2-Scheibe durch Beschäftigte des 
+Terminals vorgenommen. Entfernen der Sh2- Scheibe erfolgt analog. 
+ 
+ 
+ 
+2-Jun-25 NBS Betrieblicher Teil Vers 13.Docx 10
+4.       Sonstige Aufgaben 
+ 
+4.1  Prüfen des Fahrweges / der Gleisanlagen 
+Das Rangierpersonal des EVU hat während der Bedienung die Fahrwegbeobachtung 
+durchzuführen und darauf zu achten, dass der Fahrweg und die einmündenden Gleisab-
+schnitte bis zum Grenzeichen frei sind. Darüber hinaus darf kein Fahrzeug unbeabsich-
+tigt über ein Grenzzeichen oder Isolierzeichen am anderen Ende des Gleises gelangen. 
+Die Spitze ist bis zum Stillstand der Rangierabteilung zwingend zu besetzen. 
+ 
+4.2      Geschwindigkeit beim Rangieren 
+Grundsätzlich beträgt die Rangiergeschwindigkeit V max. 15 km/h. 50 m vor dem Gleis-
+abschluss ist die Rangiergeschwindigkeit zwingend auf 5 km/h abzusenken. 10 m vor 
+dem Gleisabschluss ist die Rabt anzuhalten. 
+ 
+4.3  Rangierseite 
+Als Rangierseite wird die in Fahrtrichtung rechte Seite festgelegt. 
+ 
+4.4  Bremsbesetzung beim Rangieren in Abhängigkeit von der maßgebenden Neigung 
+Es dürfen 30 Wagenachsen ohne wirkende Druckluftbremse bewegt werden. Für je wei-
+tere angefangene 10 Wagenachsen ist ein Wagen an die durchgehende Hauptluftleitung 
+anzuschließen. 
+ 
+4.5  Befahren von Bahnübergängen  
+Die Bahnübergänge 1, 4 und 5 sind in beide Richtungen durch Andreaskreuze gesichert.  
+ 
+Der Bahnübergang 1 ist durch Zäune, Tore und Barrieren gesperrt. Er wird nur im Notfall 
+für den öffentlichen Verkehr geöffnet. Die Sicherung erfolgt dann durch einen Bahnüber-
+gangsposten, der vom Terminal gestellt wird. 
+ 
+Die Bahnübergänge 2 und 3 sind durch Lichtzeichenanlagen gesichert.  
+  
+4.6  Abstoßen von Fahrzeugen 
+Das Abstoßen von Wagen ist in der gesamten Anlage verboten. 
+ 
+4.7  Stellung und Reihenfolge der Wagen im Anschluss 
+ entfällt  
+ 
+4.8 Bedienen von sonstigen betrieblichen Einrichtungen 
+  entfällt 
+ 
+4.9 Bedienen der Verladeeinrichtungen 
+  entfällt 
+ 
+4.10 Festlegen abgestellter Fahrzeuge  
+ Das Tfz ist durch den Tf des EVU von der Rangierabteilung abzukuppeln und in  
+5 m Entfernung von der Rabt abzustellen 
+ 
+4.11 Bedienen von Nebenanschlüssen und Mitbenutzer 
+  entfällt 

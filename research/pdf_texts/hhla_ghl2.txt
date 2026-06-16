@@ -1,0 +1,427 @@
+ 
+ 
+                                                         
+Seite 1 / 8 
+GHL 2 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutzungsbedingungen (NBS)  
+Betrieblicher Teil  
+ 
+ 
+HE - Gleisanschluss Nr. 415 
+HHLA GHL 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eisenbahnbetriebsleiter  
+ 
+ 
+    Gez. Stolter  
+ 
+Stolter  
+ 
+ 
+Gültig ab 01.08.2020  
+ 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+2 
+ 
+Berichtigungen 
+ 
+ 
+Lfd. Nr. 
+ 
+Gültig ab 
+     
+In die NBS eingearbeitet 
+  am durch 
+Rev. 0 01.03.2011 01.02.2011 Witschkowski/Lange 
+Rev. 1 15.02.2015 06.02.2015 Witschkowski/Stolter 
+Rev 2 01.10.2016 24.08.2016 Stolter/Witschkowski 
+Rev 3 01.10.2019 05.09.2019 Stolter 
+Rev 4 01.08.2020  Stolter 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+ 
+   Jeweils letzte Änderung durch senkrechten Strich am Seitenrand gekennzeichnet  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+3 
+ 
+ 
+ 
+Verteilungsplan: 
+ 
+HHLA Container Bereich Betrieb 
+EBL/StV EBL 
+LEA 
+ 
+GHL Zweite Gesellschaft für Hafen- und Lagereiimmobilien-Verwaltung mbH 
+Bei St. Annen 1, 20457 Hamburg 
+ 
+CONTEX Packing GmbH 
+Roßweg 20, 20457 Hamburg 
+ 
+ 
+ 
+Wichtige Rufnummern der Ansprechpartner: 
+ 
+Eisenbahnbetriebsleiter (EBL) Michael Stolter 0160 9742 3918 
+Vertreter des EBL Linus Mörchen-Klaffke 0160 97478289 
+Vertreterin des EBL Ina Mathiesen 01523 7577391 
+Notfallmanagement  0171 568 7558 
+Polizei  110 
+Feuerwehr  112 
+Landeseisenbahnaufsicht (LEA)  040 42841 3695 
+GHL 2 (HHLA Immobilien)  040 3088 3697 
+CONTEX Packing GmbH Herr Riemeier 040 74 11 34-0 
+CONTEX Packing GmbH Herr Göbel 0176 559 88 519 
+ 
+ 
+ 
+ 
+ 
+Inhaltsverzeichnis: 
+ 
+1. Beschreibung der Anlage 
+2. Durchführen der Bedienungen 
+3. Aufgaben des Anschließers 
+4. Sonstige Aufgaben 
+ 
+ 
+ 
+Verzeichnis der Anlagen: 
+ 
+Gleisplan GHL 2 
+ 
+ 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+4 
+VORBEMERKUNGEN 
+ 
+Örtlich eingesetztes Personal der einzelnen EVU müssen die Nutzungsbedingungen 
+(NBS) des HHLA – Anschlusses GHL 2 - Betrieblicher Teil, beherrschen. 
+ 
+ 
+Regelwerke der Deutschen Bahn AG und VDV -Schriften, die auf der Eisenbahnin f-
+rastruktur des Gleisanschlusses HE 415 Anwendung finden: 
+ 
+Bezugsquellen für Regelwerke der Deutschen Bahn AG: 
+ 
+DB Kommunikationstechnik GmbH 
+Medien- und Kommunikationsdienste 
+Logistikcenter (Drucksachenzentrale) 
+Kriegstraße 136 
+76133 Karlsruhe 
+ 
+und Download im Internet. 
+ 
+Bezugsquellen für VDV-Schriften: 
+ 
+VDV Köln 
+Kamekestraße 37-39 
+50672 Köln 
+ 
+Es gelten die jeweils gültigen Fassungen. 
+ 
+Regelwerk – Nr.  Kurzbezeichnung 
+301 Signalbuch 
+408.21-27 Fahrdienstvorschrift; Züge fahren 
+408.48 Fahrdienstvorschrift; Rangieren 
+VDV-Schrift 753 Eisenbahnfahrzeug-Führerschein-Richtlinie 
+VDV-Schrift 755 Streckenkenntnis-Richtlinie 
+482.8002 Signalanlagen bedienen; Ortsgestellte Weichen und Gleissperren, 
+Allgemeines 
+482.8003 Signalanlagen be dienen; Mechanisch ortsgestellte Weichen und 
+Gleissperren bedienen 
+482.8004 Signalanlagen bedienen; Elektrisch ortsgestellte Weichen bedienen 
+TfV Triebfahrzeugführerscheinverordnung 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+5 
+1. Beschreibung des Anschlusses / der Anlage 
+ 
+1.1 
+ 
+A) Grenzen des Anschlusses / der Anlage 
+ 
+ Der Gleisanschluss schließt über das Gleis 318 und die Anschlussweiche 351 an 
+den Bahnhof Hamburg Waltershof an. 
+ 
+ 
+ 
+B) Beschreibung der Gleisanlagen und ihre Nutzung  
+ 
+Gleis: Nutz- 
+länge: 
+Nutzung: Neigungsverhält-
+nisse 
+Nutzer: Hemmschuhform/ 
+Sonderform 
+1 110m Rampe 90m 0 ‰ (nur Rampe) CONTEX 
+Packing 
+GmbH 
+Spitzensicherungs-
+hemmschuh links 
+ 
+  
+1.2. Gleisanlagen und ihre Nutzung 
+ 
+a) Rangierbezirke  
+entfällt 
+ 
+b) Anschlussgleise  
+ entfällt 
+ 
+1.3  Aufbewahrung Sicherungsmittel 
+ Hemmschuhe, ausreichend am Pfosten Nähe des Zaunes 
+ 
+1.4  Übergabestelle und Bedienungsbereich der EVU 
+ Rampe (siehe Markierung Gleisplan) 
+ 
+1.5  Halbmesser der Gleise kleiner als 150m 
+       entfällt 
+ 
+1.6  Signalanlagen 
+      entfällt 
+ 
+1.7  Bahnübergänge 
+Höhengleiche betriebsinterne Überfahrt zwischen Rampe und Gleistor.  
+Sicherung erfolgt durch Andreaskreuze und gemäß FV 408.4816, Abschnitt 2 mittels 
+Postensicherung. 
+ 
+1.8  Oberleitungsanlagen mit Schalter (Mastnummer, Schalterangabe) 
+       entfällt 
+ 
+1.9   Sonstige betriebliche Einrichtungen des Gleisanschlusses 
+  entfällt 
+ 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+6 
+1.10 Brücken, Durchlässe 
+ entfällt 
+ 
+1.11 Telekommunikationsanlagen 
+ entfällt 
+  
+1.12  Einfriedungen und Tore, Bedienung durch Werkspersonal 
+         Hallentore: 
+Der Betrieb ist eingezäunt. Gleistor am Weichenende der EW 351 und östlich der 
+Rampe. 
+ 
+1.13  Beleuchtung und Lage der Schalter 
+Beleuchtung ist vorhanden. Der Schalter befindet sich in der Halle am Tor 10 im 
+Bereich des Notausgangs (Tür neben dem Tor 10). 
+  
+1.14  Betriebseinschränkungen 
+Zwischen Nordkante Rampe und EW 351 besteht 4 ‰ Gefälle. Hier dürfen keine 
+Eisenbahnfahrzeuge abgestellt werden. 
+ 
+1.15  Verladeeinrichtungen 
+ Rampe 
+ 
+2. Durchführen der Bedienung 
+ 
+2.1  Verständigen des Anschliessers über die Bedienung 
+ Verständigen des Mitbenutzers über die Bedienung (soweit notwendig) fernmünd-
+lich: CONTEX Packing GmbH 040 / 74 11 34-0 
+  
+  
+2.2 Verwendung der Weichenschlüssel, Abhängigkeiten 
+entfällt 
+ 
+2.3      Kommunikation der einzelnen beteiligten EVU und EIU 
+ CONTEX Packing GmbH 040 / 74 11 34-0 
+ 
+    
+2.4      Zuständigkeiten der EVU 
+ 
+Bei der Zuführung und Abholung der Wagen hat das Rangierpersonal Personen, 
+die im Bedienungsbereich oder an abgestellten Wagen tätig sind, zu warnen. 
+ 
+Vor der Einfahrt in den Anschluss muss sich das Rangierpersonal überzeugen, 
+dass das Gleistor geöffnet und profilfrei festgelegt ist. 
+ 
+Die Kommunikation über Rangierfahrten in, aus und innerhalb des Terminals wird 
+über CONTEX Packing GmbH 040 / 74 11 34-0 geführt. 
+  
+Fahrten zum/vom Gleisanschluss sind Rangierfahrten. Es ist jeweils nur eine 
+Rangierfahrt zum/ vom Gleisanschluss erlaubt 
+ 
+ 
+Die Wagen sind mit den vom Gleisanschließer zum Festlegen der Wagen bereit-
+zustellenden Sicherungsmitteln (Hemmschuhen) bei der Zustellung gegen unbe-
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+7 
+absichtigte Bewegungen zu sichern (siehe 1.3). Zu sichern ist immer das nörd-
+lichste Fahrzeug. 
+  
+ Das Bewegen von Wagen ist grundsätzlich nur mit Zustimmung von CONTEX  
+Packing GmbH gestattet. 
+ 
+Schäden, die durch das EVU an der Infrastruktur verursacht wurden, sind unver-
+züglich dem Gleisanschließer anzuzeigen (z.B. Verunreinigungen durch ausgelau-
+fenes Öl, Beschädigung von Sh2 – Scheiben, Verschieben von Prellböcken etc). 
+ 
+Die Beschäftigten der EVU müssen bei ihrer Tätigkeit außerhalb des Führerstan-
+des ihres Tfz folgende persönliche Schutzausrüstung tragen:  
+ 
+• Warnkleidung der Klasse 3 nach DIN EN ISO 20471 in Kombination lange Ho-
+se und ein den Torso bedeckendes Oberteil 
+• Industrieschutzhelm nach DIN EN 397  
+• Sicherheitsschuhe S2 nach DIN EN ISO 20345  
+• Schutzhandschuhe EN 388 (mechanische Schutzwirkung) 
+ 
+Darüberhinausgehende Schutzausrüstung hat jedes EVU in seiner Gefährdung s-
+beurteilung festzulegen.  
+ 
+ 
+3. Aufgaben des Anschließers 
+ 
+3.1      Zuständigkeiten des Gleisanschließers/Mitbenutzers 
+ Beim Bewegen von Eisenbahnfahrzeugen durch das EVU sind die Gleise von 
+ Personen, Straßenfahrzeugen und sonstigen Hindernissen freizuhalten.  
+ 
+Die Sicherung höhengleicher Übergänge ist allein Sache des Gleisanschließers. 
+  
+Gegenstände dürfen nur in einem Abstand von mindestens 2,50 m von der Gleis-
+mitte gelagert werden. Das gelagerte Gut muss gegen Anrollen und Umstürzen 
+gesichert sein. 
+ 
+Können die oben genannten Bedingungen aus zwingenden Gründen ausnahms-
+weise nicht erfüllt werden, so hat der Gleisanschließer das Gleis vor der Gefah-
+renstelle durch Haltscheibe (Signal Sh 2) zu sperren. Die Signale Sh 2 hat der 
+Gleisanschließer vorzuhalten. 
+ 
+Der Gleisanschließer hat die Weichen und Spurrillen der Gleise von Laderück-
+ständen und von Schnee und Eis freizuhalten. Das gilt auch für die Rangierwege, 
+die außer dem bei Glättegefahr zu streuen sind. 
+ 
+ 
+3.2      Be- und Entladen der Eisenbahnwagen  
+Eisenbahnwagen dürfen während der Rangierarbeiten der EVU weder be- oder 
+entladen noch verschoben werden.  
+ 
+ 
+3.3  Warnen der Beschäftigten  
+Bei der Zuführung und Abholung der Wagen hat das Rangierpersonal Personen, 
+die im Bedienungsbereich oder an den Wagen beschäftigt sind, zu warnen. 
+ 
+ 
+NBS GHL 2, REV 4, 01.08.2020 
+ 
+8 
+ 
+4. Sonstige Aufgaben 
+  
+4.1  Prüfen des Fahrweges / der Gleisanlagen 
+ Das Rangierpersonal prüft die während der Bedienung befahrenen Anschlussan-
+lagen  durch Augenschein auf offensichtliche Mängel hinsichtlich:  
+• Befahrbarkeit 
+• Freihalten des Regellichtraums 
+ 
+4.2      Geschwindigkeit beim Rangieren 
+ Die Bedienungsfahrt ist im Anschlussbereich vorsichtig und mit höchstens 10 km/h 
+durchzuführen. 
+ 
+4.3  Rangierseite 
+Rangierseite ist die Ostseite 
+ 
+4.4  Bremsbesetzung beim Rangieren in Abhängigkeit von der maßgebenden 
+Neigung 
+Es dürfen 30 Wagenachsen ohne wirkende Druckluftbremse bewegt werden. Für 
+je weitere angefangene 10 Wagenachsen ist ein Wagen an die durchgehende 
+Hauptluftleitung anzuschließen. 
+ 
+4.5  Befahren von Bahnübergängen 
+Siehe 1.7 
+ 
+4.6  Abstoßen von Fahrzeugen 
+Das Abstoßen von Wagen ist in der gesamten Anlage verboten 
+ 
+4.7  Stellung und Reihenfolge der Wagen im Anschluss 
+ entfällt 
+ 
+4.8 Bedienen von sonstigen betrieblichen Einrichtungen 
+  entfällt 
+ 
+4.9 Bedienen der Verladeeinrichtungen 
+  entfällt 
+ 
+4.10 Festlegen abgestellter Fahrzeuge 
+Das Festlegen zugestellter Wagen im Bereich der Rampe erfolgt durch Hemm-
+schuhe. 
+  
+4.11 Bedienen von Nebenanschlüssen und Mitbenutzer 
+  entfällt 
+351
+Anschlussweiche
+Gleisrampe
+Legende
+Norden
+HHLA Gleisanschluss 415 GHL 2
+Gleisplan
+Übergabepunkt
+Zaun
+Anschlussgleis
+Aufgestellt: Stolter, EBL, 01.08.2020
+Gleisabschluss
+Anschlussgrenze
+Tor10
+Tor11
+Lichtschalter
+ Rampenbeleuchtung
+Anlage NBS

@@ -1,0 +1,1611 @@
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 I 
+Anweisung für den Eisenbahnbetrieb  
+auf den Gleisen der  
+Hafenverwaltung Kehl  
+im Bereich des Rheinhafens Kehl  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     Gültig ab: 01.12.2025 
+ 
+ 
+Verteiler 
+ 
+ 
+ Name Funktion Datum Unterschrift 
+Erstellt Männle EBL   
+ 
+Geprüft 
+Freigegeben Stichler EBLV  
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 II 
+  
+0.1 Verzeichnis der Aktualisierungen                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lfd.   
+Nr. 
+Bezeichnung Datum Bemerkungen Version 
+Aktualisierung  eingearbeitet 
+Name Datum 
+1 
+Überarbeitung >>> Ei-
+senbahnbetriebsanwei-
+sung Infrastruktur Nut-
+zungsbedingungen 
+17.09.25 
+Erstellung Fassung Eisenbahnbe-
+triebsanweisung Infrastruktur Nut-
+zungsbedingungen, Aktualisierung 
+verschiedener Daten 
+1.0 Männle 17.09.25 
+2 
+Überarbeitung >>> Ei-
+senbahnbetriebsanwei-
+sung Infrastruktur Nut-
+zungsbedingungen 
+20.10.25 
+Überarbeitung >>>                          
+neues Hafenlogo 
+1.1 Männle 20.10.25 
+3 
+Überarbeitung >>> Ei-
+senbahnbetriebsanwei-
+sung Infrastruktur Nut-
+zungsbedingungen 
+21.11.25 
+Überarbeitung >>>                            
+Änderungen nach der Stellung-
+nahme der DB-Cargo                      
+1.2 Männle 21.11.25 
+4       
+5       
+6       
+7       
+8       
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 III 
+ 
+ 
+0.2           Hauptanschließer, Nebenanschließer, Mitbenutzer 
+ 
+ 
+ 
+Hauptanschließer  
+ Hafenverwaltung Kehl  
+Körperschaft des öffentlichen  Rechts  
+Hafenstraße 19  
+Nebenanschließer/Mitbenutzer  
+Bezirk I:  Badische Drahtwerke GmbH  Nebenanschl.  Weststraße 31  
+BSW Stahlnebenprodukte GmbH  Mitbenutzer  Graudenzerstraße 33  
+Idimex AG  Nebenanschl.  Weststraße 13  
+Klumpp+Müller GmbH & Co. KG  Nebenansch.l  Weststraße 24  
+Bezirk II:  Eurotransit GmbH  Nebenanschl.  Eugen -Ensslin -Str.: 3+5  
+Heppner Intern. Spedition GmbH 
+& Co.  
+Nebenanschl.  Eugen -Ensslin -Str. 7  
+Klumpp+Müller GmbH & Co. KG  Nebenanschl.  Hafenstraße 37, 40, 46  
+Leber Rohstoffe                                  
+Handelsges ellschaft  mbH  
+Mitbenutzer  Hafenstraße 50  
+DSV Air&Sea Deutschland 
+GmbH  
+Nebenanschl.  Eugen -Ensslin -Straße 1  
+Spedition Klaus Bernhard Sack-
+mann GmbH  
+Mitbenutzer  Eugen -Ensslin -Straße 1  
+PSB Papier -Sortierung Baden 
+GmbH  
+Mitbenutzer  Hafenstraße 44 -46  
+ZG Raiffeisen Logistikzentrum  Nebenanschl.  Südstraße 2  
+Rhenus Kehl GmbH & Co. KG  Mitbenutzer  Weststraße 15  
+ZG Raiffeisen eG  Mitbenutzer  Hafenstraße 42a  
+Zürcher Holding GmbH Mitbenutzer Südstr.4/ Oststr.10a 
+Bezirk III:  Koehler Kehl GmbH  Nebenanschl.  Bremenwörtstraße 4  
+RMA Kehl GmbH & Co. KG  Mitbenutzer  Oststraße 17  
+Amend Rohstoffe GmbH  Mitbenutzer  Oststraße 14  
+Deltaflor GmbH  Mitbenutzer  Oststraße 5  
+Badische Stahlwerke GmbH  Nebenanschl.  Graudenzer Straße 45  
+Zürcher Holding GmbH  Mitbenutzer  Südstr.4/ Oststr.10a  
+Hauptanschließer  
+Bezirk III:  
+ 
+Total Deutschland GmbH  Oststraße14  
+(kein Nebenanschließer und  
+kein Mitbenutzer der HV)  
+Bezirk IV:  Badische Stahlwerke GmbH                              
+Nebenanschließer  an DB -/ HV -Netz  
+Graudenzer Straße 45  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 IV 
+ 
+0.3 wichtige Rufnummern                   
+ 
+Wichtige Rufnummern 
+ E-Mail/ Mobil/ Sonstiges Telefon Fax 
+Hafenverwaltung Kehl Notfallmeldestelle 
+Nachtbereitschaft 
+07851 897-0 
+0172 9307970 07851 897-66 
+Eisenbahnbetriebsleiter Thomas Männle 
+t.maennle@hafen-kehl.de  
+07851 897-28 
+0172 7483704 07851 897-66 
+Stellvertretender 
+Eisenbahnbetriebsleiter 
+Uli Stichler 
+u.stichler@hafen-kehl.de 
+07851 897-23 
+0172 8034431 07851 897-66 
+Krandienst 
+MSG info@msg-kran.eu 07851-9117-0 07851 911711 
+Wasserschutzpolizei Kehl kehl.wspst@polizei.bwl.de 07851-9449-0 07851 944933 
+Feuerwehr Kehl 
+(Notruf 112) feuerwehr@stadt-kehl.de 
+07851-88-3333 
+24h/7d 07851 88470  
+Rettungsdienst Erste Hilfe 112  
+DB    
+DB Cargo Kehl               
+Schichtführer  07851 81 378           07851 81 277 
+DB Cargo Kehl                
+Rangierleiter 
+l-czman-schichtfuehrer-kehl@deutsche-
+bahn.com 07851 81 265 07851 81 277 
+DB Notfallmeldestelle/ 
+DB Cargo Offenburg 
+Disposition 
+0170 7925073 0781 81 2424  0781 81 3320 
+DB Cargo Offenburg 
+Gruppenleiter Kehl 0152 37519986 0781 81 3492 07851 81 3508 
+DB Cargo Offenburg 
+Planung Kehl 
+ 
+0781 81 1870  
+DB InfraGo Karlsruhe 
+Fahrdienstleiter 
+KAR.BZ-SB7@deutschebahn.com 
+ 0721 93 84265 0721 93 84385 
+DB InfraGo Karlsruhe 
+Disposition Technik Störung BÜ 0721 93 82000  
+DB InfraGo Bezirksleiter 
+Fahrbahn Offenburg 0152 37530971 0781 81 3134   
+ 
+DB InfraGo Bezirksleiter 
+Betrieb Offenburg 0160 97403584 0781 81 3391  
+  
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 V 
+0.4 Inhaltsverzeichnis 
+ 
+0.        Verzeichnis  Seite 
+0.1             Verzeichnis der Aktualisierungen II 
+0.2             Hauptanschließer, Nebenanschließer, Mitbenutzer III 
+0.3             Wichtige Rufnummern IV 
+0.4             Inhaltsverzeichnis VI 
+0.5             Verzeichnis der Anlagen IX 
+0.6             Vorbemerkungen zur nachfolgenden Anweisung X 
+   
+1. Beschreibung des Gleisanschlusses 1 
+1.1 Lage des Gleisanschlusses 2 
+1.2 Anschlussgrenzen 6 
+1.3 Gleisanlagen 7 
+1.4 Weichen 12 
+1.5 Toranlagen 12 
+1.6 Gleisbögen mit Radien kleiner 150m 12 
+1.7 Signalanlagen 12 
+1.8 Bahnübergänge 13 
+1.8.1 Bahnübergänge ohne technische Sicherung 13 
+1.8.2 Bahnübergänge mit technischer Sicherung 15 
+1.9 Oberleitungsanlagen 15 
+1.10 Brücken, Durchlässe 15 
+1.11 Telekommunikationsanlagen 15 
+1.12 Beleuchtung 15 
+1.13 Verladeanlagen 16 
+1.14 Verladeeinrichtungen (bodeneben) 17 
+1.15 Wiegeeinrichtungen/ Waagen 17 
+1.16 Einschränkungen des Regellichtraums (Profileinengung) 17 
+1.17 Betriebseinschränkungen 19 
+1.18 Streckenabschnitte mit Gefälle 19 
+1.19 Übergabestelle und Bedienungsbereich 19 
+1.20 Gefahrgüter 19 
+1.21 Rettungseinrichtungen und Geräte 20 
+1.22 Notfallmanagement 21 
+1.23 Eisenbahnbetriebsleiter der HV 22 
+1.24 Prüfungs- und Betretungsrecht, Weisungsbefugnis 23 
+1.25 Fahrdienstleiter 23 
+1.26 Qualität und Ausstattung der Eisenbahninfrastruktur der HV 23 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 VI 
+0.5 Verzeichnis der Anlagen 
+ 
+ 
+  
+Anlage 1 Schemaplan 
+Lageplan 
+Anlage 2 - 
+Anlage 3 - 
+Anlage 4 - 
+Anlage 5 - 
+Anlage 6 - 
+Anlage 7 - 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 VII 
+0.6   Vorbemerkungen zur nachfolgenden Anweisung  
+  
+Rechtsgrundlagen 
+Aufgrund der Vorschriften des Allgemeinen Eisenbahngesetzes (AEG) mit § 23 Abs. 1 
+der Verordnung des Innenministeriums Baden-Württemberg über den Bau und Betrieb 
+von Anschlussbahnen (BOA) wird diese Eisenbahnbetriebs anweisung für die private 
+Gleisinfrastruktur der Hafenverwaltung Kehl (HV) erlassen. Sie soll eine sichere und 
+diskriminierungsfreie Benutzung der Eisenbahninfrastruktur der HV durch Eisenbahn-
+verkehrsunternehmen (EVU) im liberalisierten Eisenbahnverkehr im  Sinne der Vor-
+schriften der Eisenbahninfrastrukturnutzungsverordnung (EIBV) gewährleisten. 
+  
+Die Bestimmungen dieser Bedienungsanweisung beruhen ferner auf dem Landesei-
+senbahngesetz (LEisenbG). Außerdem sind alle auf der „Liste der vom Ministerium für 
+Verkehr für verbindlich erklärten (eingeführten) eisenbahnrechtlichen Vorschriften“ 
+(Stand 01.02.2021) anzuwenden. 
+  
+Auf die berufsgenossenschaftlichen Vorschriften für Sicherheit und Gesundheit bei der 
+Arbeit der Großhandels- und Lagerei- Berufsgenossenschaft (GroLaBG) 
+▪ DGUV 77 „Arbeiten im Gleisbereich“ (bisher BGVD 33) 
+▪ DGUV 73 „Schienenbahnen“ (bisher BGVD 30) 
+wird ergänzend hingewiesen. 
+ 
+Die gesetzlichen Bestimmungen, Verordnungen sowie die berufsgenossenschaftlichen 
+Vorschriften sind immer in ihrer aktuellsten Fassung anzuwenden. 
+  
+Eisenbahninfrastruktur 
+Eisenbahninfrastruktur im Sinne dieser Bedienungsanweisung sind Anlagen und Ein-
+richtungen im Sinne des § 2 Abs. 3 und Abs. 3 c Nr. 8 AEG (Serviceeinrichtungen 
+„Häfen“). 
+  
+Anschlussbahnen/Hauptanschließer 
+Anschlussbahnen sind Eisenbahnen, die ganz oder überwiegend den Verkehr eines 
+einzelnen Unternehmers zu Eisenbahnen des öffentlichen Verkehrs vermittelt und mit 
+diesen derart in unmittelbarer Gleisverbindung stehen, dass ein Übergang von Be-
+triebsmitteln möglich ist. Betreiber von Anschlussbahnen werden auch als „Anschlie-
+ßer“ bezeichnet. 
+  
+Nebenanschließer 
+Nebenanschließer sind Unternehmen, die nur indirekt über eine Anschlussbahn (An-
+schließer/ Hauptanschließer) einen Zugang zum öffentlichen Netz haben, die also an 
+die Gleisanlagen des Hauptanschließers (HV) angebunden sind. 
+  
+Die HV ist im Gebiet des Rheinhafens Kehl sowohl Anschließer als auch Eisenbahninf-
+rastrukturunternehmen (EIU). Sie führt im Hafengebiet auch Fahrten mit der eigenen 
+Kleinlok durch. 
+ 
+Mitbenutzer 
+Mitbenutzer sind Unternehmen, die per Infrastrukturnutzungsvertrag (INV) geregelt die 
+Gleisanlagen des Hauptanschließers mitbenutzen. 
+  
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0 VIII 
+Die „Anweisungen für den Eisenbahnbetrieb auf den Gleisen der Hafenverwal-
+tung Kehl“ im Bereich des Rheinhafens Kehl sind für alle Nebenanschließer/Mit-
+benutzer und EVUs bindend, die diese Infrastruktur nutzen oder mit eisenbahn-
+technischen Aufgaben betraut s ind. Sie gilt auch für den Anschließer (HV), so-
+fern er Fahrten mit der betriebseigenen Kleinlok durchführt oder sich zur Versor-
+gung des eigenen Umschlagsbetriebes eines EVUs bedient.  
+  
+Diese Anweisung dient der Gefahrenabwehr und sicheren Durchführung des Bahnbe-
+triebes im Hafen Kehl. Sie entbindet die beteiligten Unternehmen und Personen nicht 
+von ihrer eigenen Sorgfaltspflicht. 
+  
+  
+Hinweis zur Benutzung dieser Anweisung: 
+Zusatzanweisungen/ Hinweise für die Bedienung einzelner Nebenanschließer/ Mit-
+benutzer sind grau hinterlegt. 
+  
+  
+ 
+Inkrafttreten: 
+ 
+Diese Eisenbahnbetriebsanweisung tritt am 01.11.2005 in Kraft. 
+ 
+Sie ersetzt damit die „Anweisung für den Eisenbahnbetriebsdienst der Hafenver-
+waltung Kehl im Bereich des Rheinhafens Kehl“ vom 21. September 1990. 
+ 
+Die jeweiligen Aktualisierungen finden sich unter „0.1. Verzeichnis der Aktuali-
+sierungen“. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.0  Seite 1 von 55 
+ 
+1. Beschreibung des Gleisanschlusses 
+ 
+Auf den Privatgleisanschluss (Anschluss) der HV werden im Übergang vom Netz 
+der DB InfraGo in der Regel Güter befördert, die für den Anschließer (HV), des-
+sen Nebenanschließer oder Mitbenutzer bestimmt sind oder durch sie versandt 
+werden. 
+ 
+Innerhalb des Hafengebiets sind mehrere EVUs bzw. Rangierfahrten zum Teil 
+auch zeitgleich tätig. 
+ 
+Die Infrastruktur mit einer Gesamtlänge von etwa 42 km ist größtenteils im Eigen-
+tum der HV. 
+ 
+Die Verbindungsgleise mit den Ladegleisen zwischen Güterbahnhof – Ha-
+fen und der Badischen Stahlwerke GmbH (BSW) sowie der Fa. Total stehen 
+im Eigentum der DB InfraGO AG und unterliegen deren Unterhaltungslast. 
+Es gelten auf diesem Gleisabschnitt die DB-Vorschriften. Die Weiche 329 
+ist Eigentum der HV Kehl und ist somit Anschlussweiche für die Gleisan-
+schlüsse der Firma Koehler und den Badischen Stahlwerken (BSW). 
+ 
+Hinweis: 
+Da die Zufahrtgleise zur BSW (mit Ausnahme des BSW-Gleises 10 (Anschluss-
+weiche 329 ist Eigentum der Hafenverwaltung Kehl) sowie die Fa. Total im Ei-
+gentum der DB InfraGO AG stehen, sind die BSW bzw. die Fa. Total weder Ne-
+benanschließer noch Mitbenutzer der Gleisinfrastruktur der HV, sondern der DB 
+InfraGo (Ausnahme Anschlussweiche 329). Deren Betriebsanweisung ist zu be-
+achten. Es ist ferner die Bedienungsanweisung der BSW bzw. der Fa. Total zu 
+beachten (s. Anlage 6). 
+ 
+Diese Hinweise betreffen den Gleisanschluss der BSW im Bezirk IV, die 
+BSW sind im Bezirk III Nebenanschließer der HV. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 2 von 23 
+ 
+1.1  Lage des Gleisanschlusses 
+ 
+Der Gleisanschluss zweigt vom DB-Gleis 201 (Zuführungsgleis vom Güterbahn-
+hof Kehl), welcher ab der EOW 202 zuerst in das DB-Gleis 206 (Zuführungsgleis 
+Bezirk II/III) und dann ab der EOW 213 in das DB-Gleis 313 (Zuführungsgleis Be-
+zirk III) übergeht, in verschiedene Anschlussgleise in das Kehler Hafengebiet ab. 
+ 
+Das Hafengebiet ist von West nach Ost in Bezirke (I - IV) eingeteilt. Die erste Zif-
+fer des Gleises steht für den Bezirk (Beispiel: Gleis 101 = Bezirk I, Gleis 304 = 
+Bezirk III). Gleiches gilt für die Weichen (Beispiel: W 106 = Bezirk I, W 203 = Be-
+zirk II). 
+ 
+Die Bahnübergänge sind vom südöstlichen Teil des Hafens Richtung Norden als 
+BÜ 21a, BÜ 21b, BÜ 21, BÜ 22, BÜ 31 bezeichnet. 
+ 
+Bezirk I 
+ 
+Der Bezirk I ist über das Gleis 101 vom Güterbahnhof Kehl erreichbar und 
+teilt sich nach 320 Metern bei der Weiche 106 in einen wasserseitigen Gleis-
+bereich (Gleise 107, 108, 109), in dem verschiedene Nebenanschließer/ Mit-
+benutzer angebunden sind, sowie einen landseitigen Gleisbereich entlang 
+der Weststraße, in dem ebenfalls verschiedene Nebenanschließer/ Mitbenut-
+zer angebunden sind. 
+ 
+Nebenanschluss BDW 
+ 
+Der Gleisanschluss liegt im Bezirk I entlang der Weststraße und im Bereich der 
+Wassergleise beim Hafenbecken I. Der Anschluss auf der Landseite beginnt an 
+dem Bahnübergang Kreuzung Weststraße/Gleis 101 und geht über in das Be-
+triebsgelände der BDW (Gleis 101). Der wasserseitige Anschluss beginnt an den 
+Weichen 172/173 und endet an den Weichen 192/193 (Gleise 107,108). 
+ 
+Hier gilt die Dienstanweisung der BDW. 
+ 
+Nebenanschluss BSN 
+ 
+Der Gleisanschluss liegt im wasserseitigen Gleisbereich. Der Anschluss beginnt 
+auf Höhe des Steilufers (250m Südlich der Weiche 154) und endet an den Wei-
+chen 154 (Gleis 109). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Klumpp + Müller 
+ 
+Der Gleisanschluss liegt entlang der Weststraße im landseitigen Gleisbereich. 
+Der Anschluss beginnt an der Weiche 120 geht über in das Betriebsgelände der 
+Firma Klumpp + Müller (Gleis 118). 
+ 
+Hier gilt die Bedienungsanweisung der Firma Klumpp + Müller - Weststraße. 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 3 von 23 
+ 
+Nebenanschluss Idimex 
+ 
+Der Gleisanschluss liegt im wasserseitigen Gleisbereich. Der Anschluss beginnt 
+bei den Weichen 133, 134 und endet in den Gleisen 114, 115. 
+Gleis 115 geht über in das hafeneigene Gleis 115 über die Anschlussweiche 135 
+auf das hafeneigene Gleis 107. 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Bezirk II 
+ 
+Der Bezirk II ist über das DB-Gleis 201 (ab EOW 201 DB-Gleis 206, ab EOW 
+213 DB-Gleis 313) vom Güterbahnhof Kehl erreichbar und geht an verschie-
+denen ausgewiesenen Anschlussstellen in die Eisenbahninfrastruktur der 
+Hafenverwaltung Kehl über. Die verschiedenen Nebenanschließer/Mitbenut-
+zer sind durch verschiedene Gleise der Hafenverwaltung Kehl angebunden. 
+ 
+Nebenanschluss Rhenus 
+ 
+Der Gleisanschluss liegt im Bezirk II entlang des Hafenbeckens I. Der wassersei-
+tige Anschluss beginnt am südlichen Beginn der Betonplatte und endet 25 Meter 
+nördlich am Ende der Siloanlage (Gleis 202). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Klumpp + Müller 
+ 
+Der Gleisanschluss liegt im Bezirk II entlang des Hafenbeckens I und entlang der 
+Hafenstraße. Der Anschluss auf der Landseite beginnt an den Weichen 231, 232 
+und geht über in das Betriebsgelände der Firma Klumpp + Müller (Gleis 205, 
+206). Der wasserseitige Anschluss beginnt bei km +1800 der Kilometrierung am 
+Hafenbecken und endet 520 m nördlich (Gleise 201/202). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl (Gleis 201/ 
+202) und die Bedienungsanweisung der Firma Klumpp + Müller - Hafenstraße. 
+ 
+Nebenanschluss Leber 
+ 
+Der Gleisanschluss liegt im Bezirk II entlang des Hafenbeckens I. Der Anschluss 
+am Hafenbecken II beginnt an dem Eingangstor der Firma Leber und geht über in 
+das Betriebsgelände der Firma Leber (Gleis 202). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss PSB Papier Sortierung Baden 
+ 
+Der Gleisanschluss liegt im Bezirk II entlang des Hafenbeckens II. Der Anschluss 
+beginnt an dem Eingangstor der Firma Leber und geht über in das Betriebsge-
+lände der Firma Leber (Gleis 218). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 4 von 23 
+ 
+Nebenanschluss ZG Raiffeisen 
+ 
+Der Gleisanschluss liegt im Bezirk II (Hafenstraße). Der Anschluss beginnt an der 
+Weiche 250 und geht über in das Betriebsgelände der Firma ZG Raiffeisen (Gleis 
+222). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss ZG Raiffeisen Düngerlager 
+ 
+Der Gleisanschluss liegt im Bezirk II entlang des Hafenbeckens I. Der Anschluss 
+beginnt am südlichen Ende des Getreidespeichers und endet an der Weiche 205 
+(Gleis 202). 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Heppner 
+ 
+Der Gleisanschluss liegt im Bezirk II (Eugen-Ensslin-Straße). Der Anschluss be-
+ginnt an der Weiche 271/ an dem Eingangstor der Firma Heppner und geht über 
+in das Betriebsgelände der Firma Heppner (Gleis 225). 
+ 
+Hier gilt die Bedienungsanweisung der Firma Heppner. 
+ 
+Nebenanschluss Zürcher 
+ 
+Der Gleisanschluss liegt im Bezirk II (Eugen-Ensslin-Straße). Der Anschluss be-
+ginnt an dem Eingangstor der Firma Heppner und geht über in das Betriebsge-
+lände der Firma Heppner (Gleis 225). Die Firma Zürcher ist Mitbenutzer. 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Eurotransit 
+ 
+Der Gleisanschluss liegt im Bezirk II (Eugen-Ensslin-Straße). Der Anschluss be-
+ginnt an den Weichen 272/ 274 und geht über in das Betriebsgelände der Firma 
+Eurotransit (Gleis 228/ 229). 
+ 
+Hier gilt die Bedienungsanweisung der Firma Eurotransit. 
+ 
+Nebenanschluss Sackmann (ehem. DSV/ Panalpina) 
+ 
+Der Gleisanschluss liegt im Bezirk II (Eugen-Ensslin-Straße). Der Anschluss be-
+ginnt an der Weiche 275 und geht über in das Betriebsgelände der Firma Sack-
+mann (Gleis 226/227). 
+ 
+Hier gilt die Bedienungsanweisung der Firma Panalpina. 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 5 von 23 
+ 
+Bezirk III 
+ 
+Der Bezirk III ist über das DB-Gleis 313 vom Güterbahnhof Kehl erreichbar 
+und geht verschiedenen ausgewiesenen Anschlussstellen in die Eisen-
+bahninfrastruktur der Hafenverwaltung Kehl über. Die verschiedenen Ne-
+benanschließer/Mitbenutzer sind durch verschiedene Gleise der Hafenver-
+waltung Kehl angebunden. 
+ 
+Nebenanschluss Zürcher 
+ 
+Der Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt an der Weiche 340 
+und geht über in die Gleise 301/302 (über Weiche 343) und endet an der Weiche 
+357 (Gleis 301/302). Die Firma Zürcher ist Mitbenutzer. 
+  
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss RMA 
+ 
+Der Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt am südlichen An-
+fang des Betriebsgeländes der Firma RMA und endet 180 m nördlich (Gleis 302). 
+Die Firma RMA ist Mitbenutzer. 
+  
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Amend 
+ 
+Der Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt am Eingangstor der 
+Firma Amend und geht über in das Betriebsgelände der Firma Amend  
+(Gleis 301). Die Firma Amend ist Mitbenutzer. 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Deltaflor 
+ 
+Der Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt an der Kreuzung 
+Rampenstraße/Gleis 331 und endet 140 m südlich (Gleis 331). Die Firma Deltaf-
+lor ist Mitbenutzer. 
+ 
+Hier gilt die Eisenbahnbetriebsanweisung der Hafenverwaltung Kehl. 
+ 
+Nebenanschluss Koehler 
+ 
+Der Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt an der Anschluss-
+weiche 329. Nach der Anschlussweiche verläuft der Gleisanschluss in östlicher 
+Richtung über die Verteilerweiche 1. An diese schließt das Betriebsgelände der 
+Firma Koehler an. 
+ 
+Hier gilt die Bedienungsanweisung der Firma Koehler. 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 6 von 23 
+ 
+Nebenanschlüsse BSW Bezirk III 
+ 
+Ein Gleisanschluss liegt im Bezirk III. Der Anschluss beginnt an der Weiche 389 
+und geht über in die Gleis 341/ 342/ 343 bevor sie über die Verteilerweiche 23 in 
+das Betriebsgelände der BSW (BSW-Gleis 13/14). Ein weiterer Gleisanschluss 
+beginnt im Bezirk III (Weiche 329) und geht über das BSW-Gleis 10 in den Bezirk 
+IV über (Werk BSW). 
+Hier gilt die Bedienungsanweisung der BSW. 
+ 
+ 
+1.2  Anschlussgrenzen  
+ 
+Die einzelnen Anschlüsse sind durch ein Schild „Anschlussgrenze HV“ gekenn-
+zeichnet. 
+ 
+Anschlussgrenzen Eisenbahninfrastruktur Hafenverwaltung Kehl 
+Bezirk I Gleis 101 (Anschlussgrenze 20 m nördlich von BÜ 21 a) 
+Bezirk II EOW 200 (Anschlussgrenze Schweißung Gleis 223) 
+ EOW 202 (Anschlussgrenze Schweißung Gleis 202) 
+ EOW 240 (Anschlussgrenze Schweißung Gleis 206, 
+Anschlussgrenze Schweißung Gleis 212) 
+Bezirk III Weiche 303 (Anschlussgrenze Schweißung Gleis 302) 
+ Weiche 309 (Anschlussgrenze Schweißung Gleis 323) 
+ Weiche 320 (Anschlussgrenze Schweißung Gleis 305) 
+ Weiche 328 (Anschlussgrenze Schweißung Gleis 331) 
+ Weiche 329 (Anschlussweiche Firma Koehler/ BSW) 
+ 
+Nebenanschließer/ Mitbenutzer 
+ 
+Die einzelnen Anschlüsse in den Bezirken I, II, III sind im Gleisbereich teilweise 
+sichtbar dargestellt. Die genauen Grenzen sind in dem beiliegenden Lageplan 
+(Anlage 1) ersichtlich und im Anschluss beschrieben. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 7 von 23 
+ 
+1.3  Gleisanlagen  
+ 
+Zum Bedienungsbereich gehören folgende Gleisanlagen: 
+ 
+Bezirk I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gleis Nutzung Nutzungslänge 
+in Meter Neigung Gleisanschlussgrenze 
+101 Zufahrtsgleis 
+Bezirk I 
+2.494 m 
+Gesamtlänge 1 : ∞ EOW 201 
+DB-Gleis 201 
+ Ladegleis BDW 376 m 1 : ∞ W 126 im Gleis 101 
+107 Zufahrtsgleis 
+Bezirk I 
+2.560 m 
+Gesamtlänge 1 : ∞ W 131 
+Ladegleis BDW 953 m 1 : ∞ Anschlussweiche W 173 
+108 Zufahrtsgleis 
+Bezirk I 
+2.480 m  
+Gesamtlänge 1 : ∞ W 106 bis W 193 
+ Ladegleis BDW 940 m 1 : ∞ Anschlussweiche  
+W 172 bis W 193 
+109 Zufahrtsgleis 
+Bezirk I 
+2.300 m 
+Gesamtlänge 1 : ∞ W 132 bis W 192 
+Ladegleis BSN 250 m 1 : ∞ Anschlussgrenze bis       
+W 154 
+114 Ladegleis 
+Idimex 140 m 1 : ∞ Anschlussweiche W 133 
+115 Ladegleis HV 218 m                      
+Gesamtlänge 1 : ∞ Anschlussgrenze Idimex 
+bis Weiche W 135 
+Ladegleis 
+Idimex 112 m 1 : ∞ Anschlussweiche W 134 
+117 Ladegleis HV 62 m 1 : ∞ Anschlussweiche W 108 
+118 Ladegleis 
+Klumpp + Müller 230 m 1 : ∞ Anschlussweiche W 120 
+120 Ladegleis BDW 80 m 1 : ∞ Anschlussweiche W 125 
+bis W 126 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 8 von 23 
+ 
+Bezirk II 
+ 
+Gleis Nutzung Nutzungslänge 
+in Meter Neigung Gleisanschlussgrenze 
+201 Zufahrtsgleis 
+Bezirk II 
+2.060 m 
+Gesamtlänge 1 : ∞ W 203 bis W 209 
+ Ladegleis 
+Klumpp + Müller 790 m 1 : ∞ Anschlussgrenze  
+bis W 209 
+202 Zufahrtsgleis 
+Bezirk II 
+2.690 m 
+Gesamtlänge 1 : ∞ EOW 202 
+Ladegleis            
+Rhenus 330 m 1 : ∞ Anschlussgrenzen 
+Ladegleis ZG 
+Düngerlager 265 m 1 : ∞ Anschlussgrenze           
+bis W 205 
+Ladegleis Leber 350 m 1 : ∞ Anschlussgrenze Leber 
+203 Ladegleis HV 440 m 1 : ∞ W 214 
+ Ladegleis HV 260 m 1 : ∞ W 210 
+205 Zufahrtsgleis 
+Bezirk II 
+1.510 m 
+Gesamtlänge 1 : ∞ W 212 bis W 232 
+ Ladegleis 
+Klumpp + Müller 140 m 1 : ∞ Anschlussweiche W 232 
+bis W 235 
+206 Zufahrtsgleis 
+Bezirk II 2.417 m 1 : ∞ EOW 202 
+ 
+Zufahrtsgleis 
+Bezirk II DB 375 m 1 : ∞ EOW 202 bis EOW 240 
+Zufahrtsgleis 
+Bezirk II HV 1.772 m 1 : ∞ EOW 240 bis                
+Anschlussweiche 231 
+Ladegleis 
+Klumpp + Müller 635 m 1 : ∞ Anschlussweiche 231 
+207 Abstellgleis HV 850 m 1 : ∞ W 241 bis W 259 
+208 Abstellgleis HV 770 m 1 : ∞ W 242 bis W 258 
+209 Abstellgleis HV 690 m 1 : ∞ W 243 bis W 257 
+210 Abstellgleis HV 620 m 1 : ∞ W 245 bis W 256 
+211 Abstellgleis HV 550 m 1 : ∞ W 246 bis W 256 
+ Ladegleis HV 390 m 1 : ∞ BÜ 22 bis W 256 
+212 Zufahrtsgleis 
+Bezirk II 
+1.015 m 
+Gesamtlänge 1 : ∞ EOW 240 bis W 259 
+ Ladegleis HV 545 m 1 : ∞ BÜ 22 bis W 259 
+213 
+Zufahrtsgleis 
+Lokschuppen 
+HV 
+50 m 1 : ∞ W 247 
+216 Ladegleis HV 950 m 1 : ∞ W 264 bis W 286 
+     
+     
+     
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 9 von 23 
+ 
+217 
+Zufahrtsgleis  
+Bezirk II, UII 
+1.530 m  
+Gesamtlänge 1 : ∞ W 244 bis W 292 
+Ladegleis +  
+Wiegegleis HV 1.260 m 1 : ∞ W 265 bis W 292 
+218 Ladegleis HV 1.260 m 1 : ∞ W 265 bis W 292 
+ Ladegleis PSB 270 m 1 : ∞ Anschlussgrenze Leber 
+222 Ladegleis ZG 200 m 1 : ∞ Anschlussweiche W 250 
+223 
+Zufahrtsgleis  
+Bezirk Eugen-
+Ensslin-Straße 
+300 m 
+Gesamtlänge 1 : ∞ EOW 200 bis W 278 
+ Abstellgleis HV 180 m 1 : ∞ W 273 bis W 278 
+224 
+Zufahrtsgleis  
+Bezirk Eugen-
+Ensslin-Straße 
+270 m 
+Gesamtlänge 1 : ∞ W 273 
+ Abstellgleis HV 80 m 1 : ∞ W 278 
+225 
+Zufahrtsgleis  
+Bezirk Eugen-
+Ensslin-Straße 
+290 m 
+Gesamtlänge 1 : ∞ W 277 
+ Ladegleis Hepp-
+ner HV 220 m 1 : ∞ W 271 
+226 
+Zufahrtsgleis  
+Bezirk Eugen-
+Ensslin-Straße 
+190 m 
+Gesamtlänge 1 : ∞ W 275 
+ Ladegleis  
+DSV/Sackmann 130 m 1 : ∞ Anschlussweiche W 276 
+227 Ladegleis 
+DSV/Sackmann 130 m 1 : ∞ Anschlussweiche W 276 
+228 Ladegleis 
+Eurotransit 90 m 1 : ∞ Anschlussweiche W 274 
+229 Ladegleis 
+Eurotransit 100 m 1 : ∞ Anschlussweiche W 272 
+230 Ladegleis             
+Zürcher 175 m 1 : ∞ Tor Fa. Heppner 
+ Abstellgleis HV 210 m 1 : ∞ Anschlussweiche W 271 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 10 von 23 
+ 
+Bezirk III 
+ 
+301 Zufahrtsgleis 
+Bezirk III 
+840 m 
+Gesamtlänge 1 : ∞ W 343 
+Ladegleis        
+Zürcher 434 m 1 : ∞ Anschlussweiche        
+W 357 
+Ladegleis 
+Amend 390 m 1 : ∞ Anschlussweiche        
+W 357 
+302 Zufahrtsgleis 
+Bezirk III 
+770 m 
+Gesamtlänge 1 : ∞ W 303 
+Ladegleis        
+Zürcher 705 m 1 : ∞ W 343 bis  
+Anschlussgrenze RMA 
+Ladegleis RMA 180 m 1 : ∞ Anschlussgrenzen RMA 
+303 Zufahrtsgleis 
+Bezirk III 
+440 m 
+Gesamtlänge 1 : ∞ W 340 
+ Abstellgleis HV 440 m 1 : ∞ W 340 
+304 Abstellgleis HV 360 m 1 : ∞ W 371 
+305 Zufahrtsgleis 
+Bezirk III 
+600 m 
+Gesamtlänge 1 : ∞ W 320 
+Ladegleis 
+Presstec 47 m 1 : ∞ Anschlussgrenzen 
+Presstec 
+Abstellgleis HV 470 m 1 : ∞ W 371 
+321 Zufahrtsgleis  
+Bezirk III 
+345 m 
+Gesamtlänge 1 : ∞ W 309 
+ Abstellgleis HV 300 m 1 : ∞ W 307 
+322 Abstellgleis HV 380 m 1 : ∞ W 307 
+323 Abstellgleis HV 310 m 1 : ∞ W 308 
+331 Zufahrtsgleis 
+Bezirk III 
+450 m 
+Gesamtlänge 1 : ∞ W 328 
+ Ladegleis 
+Deltaflor 140 m 1 : ∞ Anschlussgrenze 
+341 Ladegleis BSW 390 m 1 : ∞ W 388 
+342 Ladegleis BSW 475 m 1 : ∞ Anschlussgrenze  
+DB > Weiche 389 
+343 Ladegleis BSW 440 m 1 : ∞ Anschlusseiche           
+W 389 
+W 329 Zufahrtsgleis 
+Bezirk III 25 m 1 : ∞ Verbindungsweiche  
+DB > Koehler/ BSW 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 11 von 23 
+ 
+ 
+Bezirke I – IV 
+ 
+Gleisanlagen in fremdem Eigentum 
+ 
+Folgende Gleise im Hafengebiet stehen nicht im Eigentum der HV (oder de-
+ren Nebenanschließer) und gehören nicht zu deren Bedienbereich.  
+Für diese Gleise gilt die Betriebsanweisung der DB Netz AG, die Eigentüme-
+rin dieser Anlagen ist: 
+ 
+Im Eigentum der DB Netz AG stehend: 
+ 
+Gleis Nutzungslänge Gleisanschlussgrenze 
+101 78 m von EOW 201 bis  
+Anschlußgrenze HV 
+201 208 m von Signal Ra 10 bis  
+Ende EOW 202 
+206 313 m von EOW 202 bis  
+Ende EOW 240 
+307 214 m  
+309 264 m  
+310 389 m  
+311 563 m  
+312 551 m von W 330 bis W 381 
+313 720 m von EOW 213 bis                    
+Anschlußgrenze HV (W 329)  
+ 
+Die Gleise 101, 202, 206, 313 dienen als Zufahrtsgleise zu den Bezirken I, II, III 
+und IV. 
+Die Gleise 307 – 311 dienen als Vorstellgruppe für die Rangiertätigkeiten der 
+BSW. Gleis 312 ist Durchfahrt- und Wiegegleis der BSW. 
+ 
+Gleisanlagen Hafenfirmen: 
+ 
+Koehler: Im Bezirk III ist der Gleisanschluss der Fa. Koehler. Die genaue Lage/ 
+Verlauf der Gleisanlagen ist in der Bedienungsanweisung der Fa. Koehler ersicht-
+lich. Hier gilt die Bedienungsanweisung der Fa. Koehler. 
+ 
+Total: Im Bezirk III ist der Gleisanschluss der Fa. Total. Der Gleisanschluss 
+grenzt an das Gleisnetz der DB Netz AG. Die genaue Lage/ Verlauf ist in der Be-
+dienungsanweisung der Fa. Total ersichtlich. Hier gilt die Bedienungsanweisung 
+der Fa. Total. 
+ 
+BSW: Im Bezirk IV ist der Gleisanschluss der BSW. Der Gleisanschluss grenzt an 
+das Gleisnetz der DB InfraGO. Die genaue Lage ist in der Bedienungsanweisung 
+der BSW ersichtlich. Hier gilt die Bedienungsanweisung der BSW. 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 12 von 23 
+ 
+1.4     Weichen (Bezirke I – IV) 
+ 
+Alle Weichen (W) im Hafengebiet sind ortsgestellt und mit der Nummer gekenn-
+zeichnet. Die Nummer ist auf dem Stellgewicht oder auf dem Weichenkasten an-
+gebracht. 
+ 
+Weichen- und Gleissperren-Nr. Art der Bedienung Wird bedient von 
+Weichen im Hafengebiet ortsgestellt EVU 
+ 
+1.5 Toranlagen 
+ 
+Der Bereich der Nebenanschließer/ Mitbenutzer ist teilweise eingezäunt und mit 
+Gleistoren versehen.  
+Das Öffnen und Schließen der Tore während der Bedienung obliegt den jeweili-
+gen Nebenanschließern/ Mitbenutzern: 
+ 
+Bezirk I  
+Gleis 118 Klumpp + Müller 
+ 
+Bezirk II  
+Gleis 206/ 218 (2 Stück) Leber 
+Gleis 213 HV Lokschuppen 
+Gleis 222 ZG Raiffeisen 
+Gleis 226 EES Sackmann 
+Gleis 228 EES Eurotransit 
+Gleis 230 EES Heppner 
+ 
+Bezirk III  
+Gleis 301 Amend 
+Gleis 1 (Koehler) Koehler 
+ 
+1.6    Gleisbögen mit Radien kleiner 150 m 
+ 
+Nicht vorhanden 
+ 
+1.7 Signalanlagen 
+ 
+Im Hafengebiet gibt es Weichensignale (WN), Schutzsignale (Sh) und Weichenla-
+gemelder (WLM).  
+Vor den BÜ 21 a und 21 b sind Überwachungssignale (ÜS) aufgestellt.  
+Siehe auch Anlage 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 13 von 23 
+ 
+1.8 Bahnübergänge (BÜ) 
+ 
+Im gesamten Hafengebiet sind nicht technisch gesicherte und nicht beson-
+ders gekennzeichnete Firmenein- und -ausfahrten vorhanden. Dort ist er-
+höhte Vorsicht geboten. 
+ 
+1.8.1 Bahnübergänge ohne technische Sicherung 
+ 
+Hinweis: 
+ 
+Vom Güterbahnhof Kehl kommend in den Hafen Richtung Norden fahrend 
+ 
+Bezirk I  
+Gleis 101 Pumpwerk Schuttermühlkanal Kehl (Gleis 101) 
+Ausfahrt Uhl Verladeanlage 
+Weststraße Einfahrt Uhl Verladeanlage 
+ SKIM 
+RMT 
+Feuergasse RMT 
+Idimex (2 Überfahrten) 
+Bürogebäude Rhenus (2 Überfahrten) 
+Werkgebäude HV Kehl Umschlag III 
+BK Bioenergie 
+Lagerplatz MSG 
+Herrenknecht 
+Straßenabzweig Klumpp + Müller (Weststraße) 
+Straßenabzweig Kehler Druck (Weststraße) 
+Feuergassen, Hafenseite,  zwischen Herrenknecht und Maishalle 
+Hafenbecken I zwischen RKW und UKW (3 Überfahrten) 
+ Verladeplatz BDW (Gleis 107, 108) 
+zwischen BDW und Bürstner 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 14 von 23 
+ 
+Bezirk II  
+Gleis 201/202 Pumpwerk Schuttermühlkanal Kehl (Gleis 202) 
+In den Gleisbereichen 201, 202 (203) ist mit 
+regelmäßigem Durchgangsverkehr auf der Um-
+schlagsplatte zu rechnen (Schiffsbewohner, Um-
+schlagsbetrieb HV sowie Nebenanschließer/Mitbenut-
+zer) 
+Gleis 205/206 Rhenus (2 Stück: 1 x mit technischer Sicherung DB, 1 
+x ohne technische Sicherung) 
+Rhenus /HTN 
+HV Umschlagbüro/Einfahrt Waage UI 
+Einfahrt/Ausfahrt Waage UI 
+Holzhackschnitzel-/Salzlager 
+Schwergutverladeplattform/Getreidespeicher 
+ZG Düngerlager/Klumpp + Müller 
+Klumpp + Müller 
+Gleis 217 Kreuzung Südstraße/Gleis 217 
+Gleis 217, 218, 219 In den Gleisbereichen 217, 218, 219 ist mit regelmä-
+ßigem Durchgangsverkehr auf der Umschlagsplatte 
+zu rechnen (Schiffsbewohner, Umschlagsbetrieb HV) 
+Gleis 220 Kreuzung Hafenstraße/Gleis 220 
+ 
+ 
+Bezirk III  
+Gleis 301, 302, 303 Betriebsüberfahrt Fa. Zürcher 
+Verladung Fa. Zürcher (Tiefenannahme Gleis 302)  
+Feuergasse Neumaier/Scharr 
+Fußgängerüberweg Scharr Tanklager 
+Gleis 321, 322, 323 Kreuzung Südstraße/Gleis 321, 322, 323 
+Gleis 304/305 WIHA 
+Oststraße 13 (Alte Rösterei) 
+Presscontrol 
+Presscontrol (Gleis 305) 
+RMA 
+Gleis 331 Kreuzung Rampenstraße/Gleis 331 
+Deltaflor 
+Krasniqi 
+Gleis 341/342/ 343 2 Feuerwehrzufahrten Total Tanklager 
+Überfahrt BSW Verladung 
+Ehem. Schiffstraße Total Tanklager (Gleis 342) 
+Im Bereich der Gleise 342/343 wurde eine Teilfläche 
+asphaltiert (Überfahrt BSW-Stapler) 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 15 von 23 
+ 
+1.8.2 Bahnübergänge mit technischer Sicherung 
+ 
+Die Bahnübergänge mit technischer Sicherung sind in der Anlage 2 beschrieben. 
+ 
+Bei Ausfall der technischen Sicherung ist nach FV-NE § 48 (2) zu verfahren. 
+ 
+1.9     Oberleitungsanlagen 
+ 
+Nicht vorhanden 
+ 
+ 
+1.10     Brücken, Durchlässe 
+ 
+Nicht vorhanden  
+ 
+1.11     Telekommunikationsanlagen 
+ 
+Nicht vorhanden 
+ 
+1.12     Beleuchtung 
+ 
+Die Gleise im Hafengebiet werden teilweise durch die Straßenbeleuchtung der 
+Hafenverwaltung Kehl ausgeleuchtet. Außerdem sind an verschiedenen Stre-
+ckenabschnitten die Gleise durch Lichtquellen angrenzender Gebäude bestrahlt. 
+Im Umschlag II werden die Gleise durch die Kranbrücken der Hafenverwaltung 
+Kehl beleuchtet. 
+ 
+Fest installierte Gleisbeleuchtung: 
+ 
+Bezirk I  
+Gleis 107, 108, 109 120 m nach der Weiche 106 (Gleis 108) bis 40 m vor 
+der Weiche 142 (Gleis 109)  
+ 
+Bezirk II  
+Gleis 207, 208, 209, 210,      
+211, 212 
+150 m nach der Weiche 241 (Gleis 207) bis 50 m vor 
+der Weiche 259 (Gleis 207)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 16 von 23 
+ 
+1.13   Verladeanlagen 
+ 
+Es ist stets mit dem Kreuzen der Mobilbagger, Containerstapler (Reachstacker) 
+und anderen Umschlaggeräten sowie mit Lkw- und Pkw-Verkehr zu rechnen. 
+ 
+Auf folgenden Gleisen befinden sich Krananlagen oder Verladevorrichtungen, 
+die u. U. unterfahren werden müssen und die z. B. bei Schiffsverladungen den 
+Fahrweg kreuzen: 
+ 
+Bezirk I  
+Gleis 107, 108, 109 BK Bioenergie 
+RKW (Maishalle) 
+RKW 
+BDW 
+ 
+Bezirk II  
+Gleis 201, 202 Rhenus (schwenkbares Förderband) 
+HV Umschlag I (Mobilbagger) 
+Schwergutverladeplattform 
+ZG Düngerlager (Verladetrichter) 
+Klumpp + Müller (2 Kranbrücken) 
+Leber 
+Gleis 217, 218, 219 HV Umschlag II (4 Kranbrücken) 
+ 
+Bezirk III  
+Gleis 301 Amend (Mobilbagger) 
+Gleis 302 Scharr Wärme 
+Gleis 305 RMA 
+Gleis 341, 342, 343 Total Tanklager 
+ 
+Nebenanschluss BDW  
+Für die Bedienung der Gleise 107 – 108 muss in Höhe der Firma BDW vor dem 
+Befahren der Gleise eine optisch akustische Signalanlage bedient werden.  
+Die Verladung durch die Firma BDW muss bei der Durchfahrt eingestellt 
+werden. 
+Die Bedienungsanweisung ist in Anlage 6 beigefügt. 
+ 
+Bei Annäherung und vor Befahren dieser Stellen ist äußerste Vorsicht geboten. 
+Es darf erst weitergefahren werden, wenn sichergestellt ist, dass der heranna-
+hende Zug wahrgenommen wurde und die Gleise geräumt sind. Das Achtungs-
+signal Zp 1 ist zwingend zu geben (s. dazu Anlage 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 17 von 23 
+ 
+1.14 Verladeeinrichtungen (bodeneben) 
+ 
+Bezirk II  
+Gleis 201, 202 Tiefenannahme Höhe Getreidespeicher 
+ 
+Bezirk III  
+Gleis 302 Tiefenannahme Fa. Zürcher Recyclingwerk 
+ 
+Nebenanschluss Koehler 
+In Höhe der Halle für Pigmentaufbereitung befindet sich eine Entladestelle für 
+Kesselwagen mit unterirdischer Auffangwanne.  
+Außerdem befindet sich in diesem Bereich eine pneumatische Überfahrtsbühne 
+für stirnseitige Containerbeladung (das Absenken und Anheben wird durch zwei 
+rote Warnlampen und einem Signalton angezeigt). 
+Die Bedienungsanweisung ist in Anlage 6 beigefügt. 
+ 
+1.15 Wiegeeinrichtungen/ Waagen  
+ 
+Im Hafengebiet gibt es Waagen die zur Zustellung teilweise überfahren werden 
+müssen. 
+Bezirk II  
+Gleis 202 Fa. Rhenus (Höhe schwenkbares Förderband Fa. 
+Rhenus) 
+HV Umschlag I (Ende der Werfthalle IV) 
+Gleis 218 HV Umschlag II (nach Weiche 173) 
+ 
+Während der Durchführung der Wiegetätigkeiten ist besondere Vorsicht im 
+Bereich der Waage geboten.  
+ 
+Nebenanschluss Klumpp + Müller 
+Neben dem Gleis 205 befindet sich eine LKW-Fahrzeugwaage. In diesem Bereich 
+kreuzen vermehrt LKWs den Gleisbereich.  
+ 
+1.16 Einschränkungen des Regellichtraums (Profileinengung) 
+ 
+Bezirk I   
+Gleis 101 BDW An der Werkhalle ist eine Profileinigung 
+durch die Gebäudekante. 
+Sie ist mit gelb-schwarzem Gefahrenan-
+strich markiert. 
+Gleis 107 Bürstner An den Fluchttüren entlang der Werkshal-
+len sind zum gefahrlosen Öffnen der 
+Fluchttüre mit gelb-schwarzem Gefahren-
+anstrich versehene Absperrungen ange-
+bracht. 
+Gleis 118 Klumpp + Müller -An der Toreinfahrt steht ein mit gelb-
+schwarzem Gefahrenanstrich versehener 
+Pfosten 
+-Auf der rechten Seite befindet sich eine 
+Laderampe vor dem Hallentor. 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 18 von 23 
+ 
+Bezirk II   
+Gleis 201/ 202 Werfthalle 
+II (HTN) 
+Am Gebäude befindet sich eine Laderampe. 
+Werfthalle 
+III 
+Am Gebäude befindet sich eine Laderampe. 
+Gleiswaage 
+UI 
+-In diesem Bereich ist eine Treppe zur Schrott-
+kontrolle im Gleisbereich angebracht. 
+-Im Waagenbereich ist außerdem die Radioak-
+tivitätsmessung der BSW installiert. 
+ZG Raiffeisen 
+Düngerlager 
+Zwischen den Gleisen befindet sich eine Verla-
+deeinrichtung (Trichter), nördlich/südlich davon 
+befinden sich mit gelb-schwarzem Gefahren-
+anstrich versehene Poller (Anfahrschutz). 
+Gleis 203 Werfthalle II 
+(HTN) 
+Am Gebäude befindet sich eine Laderampe (in 
+der Unterführung). 
+Gleis 217 HV UII Im Zufahrtsbereich der Umschlaganlage ist 
+eine Radioaktivitätsmessung der BSW instal-
+liert. 
+Gleis 218 HV UII Durch die Verladekräne 1 – 4 gibt es im Be-
+reich der Weiche 274 eine Profileinengung 
+beim Befahren. 
+ 
+Bezirk III   
+Gleis 305 WIHA Am Gebäude befindet sich eine Laderampe. 
+Oststraße 13 Am Gebäude befindet sich eine Laderampe. 
+Gleis 321 Peter Müller 
+KFZ 
+Am Gebäude befindet sich eine Laderampe. 
+Gleis 323 Dr. Willy 
+Brandt 
+Am Gebäude befinden sich zwei Laderampen 
+(Hauptgebäude und Holzschuppen) 
+Gleis 323 Geiger Am Gebäude befindet sich eine Laderampe 
+Gleis 342/ 343 Total Zwischen Gleis 342/ 343 musste Bauartbe-
+dingt ein kleinerer Gleisabstand ausgeführt 
+werden 
+ 
+ 
+Während der Vorbeifahrt an diesen Stellen dürfen sich keine Personen auf 
+den betroffenen Seiten der Rangierfahrt befinden. Es dürfen sich keine Per-
+sonen zwischen der Rangierfahrt und der Profileinengung sowie auf den 
+Rangiertritten aufhalten. Es muss die Rangierseite gewechselt oder die 
+Durchfahrt von einem sicheren Platz, von welchem die Rangierbewegung 
+gut eingesehen werden kann, überwacht werden. Außerdem muss die Ge-
+schwindigkeit angepasst werden (Schrittgeschwindigkeit ≤ 5 km/h). 
+ 
+Außerdem ist an allen Toranlagen (s. Punkt 1.5) äußerste Vorsicht geboten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 19 von 23 
+ 
+1.17 Betriebseinschränkungen 
+ 
+Das Hafengebiet kann nicht mit elektrisch betriebenen Lokomotiven be-
+fahren werden. Ansonsten ist es für alle Lokomotivgattungen befahrbar. 
+ 
+ 
+1.18 Streckenabschnitte mit Gefälle 
+ 
+Streckenabschnitte mit Gefälle 
+ 
+Bezirk II  
+DB-Gleis 201 Das Gefälle liegt im Verbindungsgleis 201, von Wei-
+che EOW 234 bis Hafenstraße, EOW 201 Abzweig 
+zu Bezirk I 
+Gleis 223 EES EOW 200 zum Bereich Eugen-EnsslinStraße (Be-
+zirk II) 
+ 
+1.19 Übergabestelle und Bedienungsbereich 
+ 
+Das EVU bedient den Bereich der Gleisanlagen des Infrastrukturbetreibers HV 
+Kehl und/oder der Nebenanschließer/ Mitbenutzer, in dessen Auftrag der Trans-
+port durchgeführt wird.  
+Die Übergabestellen sind die Ladestellen des Anschließers, der Nebenanschlie-
+ßer/Mitbenutzer und liegen jeweils in deren Gleisanlage. Hier werden die Wagen 
+vom EVU dem Anschließer/ Nebenanschließer/Mitbenutzer übergeben bzw. von 
+ihm übernommen. 
+ 
+Die Übergabestelle/ Bedienungsbereich der Hafenverwaltung Kehl muss vor 
+der Zustellung mit der Hafenverwaltung Kehl abgestimmt werden. 
+ 
+Die Übergabestelle/ Ladestelle ist aus der jeweiligen Bedienungsanweisung des 
+Anschließers/ Mitbenutzers ersichtlich (s. Anlage 6) oder muss vor der Zustellung 
+mit dem Anschließer/ Mitbenutzer abgestimmt werden. 
+ 
+ 
+1.20 Gefahrgüter 
+ 
+Bezirk III 
+ 
+In den Gleisen 341, 342 und 343 besteht Abstell- und Rangierverbot für Wagen 
+mit GGSVE-Gut x), gekennzeichnet durch ein Schild „Halt für Gefahrgüter“ am 
+Ende der doppelten Kreuzungsweiche 381, rechts des Gleises 342. 
+ 
+GGSVE x) Verordnung des BMV über die innerstaatliche und grenzüberschreitende Beförderung 
+gefährlicher Güter mit Eisenbahnen (Gefahrgutverordnung Eisenbahn). 
+ 
+ 
+ 
+  
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 20 von 23 
+ 
+1.21 Rettungseinrichtungen und Geräte 
+ 
+Erste-Hilfe-Material 
+ 
+Je ein Verbandskasten befindet sich: 
+ 
+▪ Verwaltungsgebäude der HV Kehl, Hafenstraße 19 
+▪ Werkstatt, Hafenstraße 19 (Kantine) 
+▪ Umschlagbüro, Hafenstraße 28 
+▪ In allen Werfthallen, wobei in Werfthalle III ein Notfallkoffer ist 
+▪ Umschlag I, Gleis 202 
+▪ Umschlag II, Sozialgebäude Hafenstraße 23a.  
+Hier befindet sich ebenfalls ein Notfallkoffer 
+▪ Hafenlok, Umschlagsbagger 
+ 
+Krankentragen 
+ 
+Je eine Krankentrage befindet sich: 
+ 
+▪ Werkstatt, Magazin, Hafenstraße 19 
+▪ Werfthalle III, Hafenstraße 28 
+▪ Freilager, Sozialgebäude Hafenstraße 23a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 21 von 23 
+ 
+1.22 Notfallmanagement 
+ 
+Das Notfallmanagement wird im Anschluss Hafen Kehl, wie auch bei den Neben-
+anschließern und Mitbenutzern (falls in der Bedienungsanweisung des Anschlie-
+ßers kein anderer Notfallmanager ersichtlich ist), durch den Anschließer sicherge-
+stellt.  
+Verantwortlich hierfür sind: 
+EBL Tel. 07851 897-28. 
+EBLV, Tel. 07851 897-23                                
+ 
+Der EBL sorgt für die Weiterleitung der Meldung an die zuständigen Aufsichtsbe-
+hörden und der zuständigen Polizeidienststelle. Wenn bei einem Unfall Menschen 
+getötet oder lebensgefährlich verletzt wurden, oder der Verdacht obliegt, dass 
+Unfälle vorsätzlich herbeigeführt worden sind, oder der öffentliche Straßenverkehr 
+beteiligt ist. 
+Alle Unfälle, bei denen 
+▪ entweder Menschen getötet, oder lebensgefährlich verletzt wurden, oder 
+▪ der Verdacht vorliegt, dass sie vorsätzlich herbeigeführt worden sind, oder 
+▪ der öffentliche Straßenverkehr beteiligt ist, 
+ 
+sind unbeschadet sonstiger Vorschriften unverzüglich dem EBL und durch den 
+EBL der Aufsichtsbehörde und der zuständigen Polizeidienststelle zu melden. 
+ 
+Meldung: 
+ 
+Landesbevollmächtigte für Bahnaufsicht 
+beim Eisenbahn-Bundesamt in Karlsruhe 
+Telefon 0721 1809-271 durch den EBL 
+ 
+DB Notfallmeldestelle 
+Telefon 0781 81 2424 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 22 von 23 
+ 
+1.23 Eisenbahnbetriebsleiter der HV 
+ 
+▪ Der EBL ist gegenüber dem Eisenbahnbetrieb Beschäftigten berechtigt, Wei-
+sungen zu erteilen. Insoweit ist ihm dieses Personal unterstellt. 
+ 
+▪ Der EBL ist für das Aufstellen, Ändern oder Ergänzen dieser Anweisung zu-
+ständig. 
+ 
+▪ Für die Leitung und Überwachung der gesamten Rangierarbeiten auf der 
+Gleisinfrastruktur der HV (s. Vorbemerkung zu Punkt 2.) ist der EBL verant-
+wortlich. 
+ 
+▪ Dem EBL obliegt die Überwachung der Anleitung, Ausbildung und Schulung 
+der HV-Mitarbeiter im Bahnbereich. 
+ 
+▪ Der EBL muss dafür Sorge tragen, dass die durchzuführenden Rangierarbei-
+ten nach Maßgabe der einschlägigen Vorschriften durchgeführt werden und 
+dass, das Rangierpersonal die erforderliche Eignung und Befähigung besitzt. 
+Er ist dafür verantwortlich, dass das bei Rangierarbeiten eingesetzte Personal 
+sachgemäß unterwiesen ist und die Bestimmungen dieser Bedienungsanwei-
+sung gewissenhaft befolgt werden. 
+ 
+▪ Der Aufsicht des EBL unterstehen ferner die Gleis- und sonstigen Betriebsan-
+lagen soweit sie nicht im Eigentum der DB Netz AG oder eines Nebenan-
+schließers sind, sowie die Lokomotiven und Fahrzeuge. Er hat diese Anlagen 
+und Betriebsmittel laufend zu überwachen und ist für ihren betriebsfähigen Zu-
+stand verantwortlich. Für die Einhaltung erforderlichen Untersuchungsfristen 
+hat er Sorge zu tragen. 
+ 
+▪ Der Aufsicht des EBL unterstehen die BÜ 21a/21b, 21, 22 und 31, die an der 
+Strecke der DB Netz AG liegen. 
+ 
+▪ Bei Unfällen obliegt dem EBL die gesamte Leitung an der Unfallstelle. Er sorgt 
+für schnelle und ausreichende Hilfe.  
+ 
+▪ Werden bei einem Unfall Menschen getötet oder schwer verletzt oder liegt der 
+Verdacht vor, dass der Unfall vorsätzlich herbeigeführt worden ist, so hat der 
+EBL die zuständigen Behörden sowie die Notfallmeldestelle der DB Cargo AG 
+zu verständigen. 
+ 
+▪ Entgleisungen und Beschädigungen fremder Fahrzeuge und Betriebsstörun-
+gen von längerer Dauer hat der EBL dem Güterbahnhof Kehl zu melden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Eisenbahnbetriebsanweisung Hafenverwaltung Kehl 
+Version 1.9  Seite 23 von 23 
+ 
+1.24 Prüfungs- und Betretungsrecht, Weisungsbefugnis 
+ 
+Die HV hat auf ihrem Infrastrukturnetz das Recht, sich jederzeit davon zu über-
+zeugen, dass die EVUs ihren Pflichten nachkommen. Soweit es zur Gewährleis-
+tung eines sicheren und ordnungsgemäßen Betriebes notwendig ist, kann das 
+Personal der HV Fahrzeuge, Anlagen und Einrichtungen der EVUs betreten und 
+dem Personal der EVUs Weisungen erteilen. Das Personal der EVUs hat den 
+Weisungen Folge zu leisten. 
+ 
+ 
+1.25 Fahrdienstleiter 
+ 
+Die HV hat keinen eigenen Fahrdienstleiter (Fdl). 
+ 
+Fahrdienstleiter zur Gleisinfrastruktur der HV ist der Schichtführer der DB Cargo 
+AG des Güterbahnhofes Kehl. Dieser koordiniert alle Ein- und Ausfahrten in das 
+Hafengebiet. 
+ 
+ 
+1.26 Qualität und Ausstattung der Eisenbahninfrastruktur der HV 
+ 
+Die HV bestimmt allein im Rahmen der gesetzlichen Vorschriften über die Quali-
+tät und Ausstattung ihrer Eisenbahninfrastruktur. Die HV ist insbesondere berech-
+tigt, Qualität und Ausstattung ihrer Eisenbahninfrastruktur jederzeit zu modifizie-
+ren. Bestehende vertragliche Verpflichtungen über die Benutzung der Eisen-
+bahninfrastruktur (Nutzungsvertrag) bleiben hiervon unberührt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

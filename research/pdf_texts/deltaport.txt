@@ -1,0 +1,627 @@
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 1 von 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeinsame 
+Nutzungsbedingungen für Serviceeinrichtungen 
+- Besonderer Teil (NBS-BT) 
+Stand: 01.07.2025 
+ 
+ 
+ 
+  
+ Kreisbahn 
+ Ap 1955-00 
+ 
+ Hafenbahn Emmelsum 
+ Ap 1944-00 
+ Ap 1955-07 
+ Ap 1955-08 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 2 von 15 
+Inhaltsverzeichnis 
+ 
+Verzeichnis der Abkürzungen ................................................................................................... 3 
+Vorbemerkungen ...................................................................................................................... 4 
+1. Ergänzungen und Abweichungen zu/von den NBS-AT ............................................. 5 
+zu Punkt 1 NBS-AT (Zweck und Geltungsbereich) ............................................................... 5 
+zu Punkt 2.1. NBS-AT (Allgemeine Zugangsvoraussetzungen) ........................................... 5 
+zu Punkt 2.3.1 NBS-AT (Anforderungen an das Personal) ................................................... 6 
+zu Punkt 2.3.3 NBS-AT (Ortskenntnis) ................................................................................. 6 
+zu Punkt 2.4 NBS-AT (Anforderungen an die Fahrzeuge) .................................................... 6 
+zu Punkt 2.5.3 NBS-AT (Finanzgarantie) .............................................................................. 6 
+zu Punkt 3. NBS-AT (Benutzung der Eisenbahninfrastruktur) .............................................. 7 
+zu Punkt 3.1.2 NBS-AT (Besondere Vorschriften des EIU) .................................................. 7 
+zu Punkt 3.2 NBS-AT (Anträge auf Nutzung von Serviceeinrichtungen) .............................. 7 
+zu Punkt 3.3 NBS-AT (Behandlung konfligierender Anträge und Nutzungen) ...................... 9 
+zu Punkt 4.1 NBS-AT (Nutzungsentgelt) ............................................................................. 10 
+zu Punkt 5.1-5.3 NBS-AT (Rechte und Pflichten der Vertragsparteien) ............................. 10 
+zu Punkt 5.4 NBS-AT (Prüfungs- und Betretungsrecht, Weisungsbefugnis) ...................... 11 
+zu Punkt 6.1.3 NBS-AT (Haftung) ....................................................................................... 11 
+zu Punkt 7.2 NBS-AT (Meldung von Umweltgefährdungen) ............................................... 12 
+2. Beschreibung der Eisenbahninfrastruktur ................................................................ 12 
+3. Entgeltgrundsätze (EGS) ......................................................................................... 12 
+Allgemeines ......................................................................................................................... 12 
+3.1 Anmeldeentgelt ....................................................................................................... 13 
+3.2 Infrastrukturnutzungsentgelt ................................................................................... 13 
+3.3 Nachlässe, Zuschläge auf vorstehendes Nutzungsentgelt ..................................... 13 
+3.4 Entgelt für Zusatzleistungen ................................................................................... 14 
+3.5 Entgelte für das Abstellen von Eisenbahnwagen ................................................... 14 
+3.6 Umsatzsteuer und Zahlungsbedingungen .............................................................. 14 
+3.7 Entgeltliste .............................................................................................................. 15 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 3 von 15 
+ 
+Verzeichnis der Abkürzungen 
+ 
+AEG Allgemeines Eisenbahngesetz 
+AT Allgemeiner Teil 
+BetrA Betriebsanweisung 
+BOA Verordnung über den Bau und Betrieb von Anschlussbahnen NRW 
+BUVO-NE Betriebsunfallvorschrift für nichtbundeseigene Eisenbahnen 
+BT Besonderer Teil 
+bzw. beziehungsweise 
+DB Deutsche Bahn 
+EBL Eisenbahnbetriebsleiter 
+EGS Entgeltgrundsätze 
+EIU Eisenbahninfrastrukturunternehmen 
+ERegG Eisenbahnregulierungsgesetz 
+EVU Eisenbahnverkehrsunternehmen 
+HaSiG Gesetz über die Sicherheit in Häfen und Hafenanlagen NRW (Hafensicher-
+heitsgesetz 
+INV Infrastrukturnutzungsvertrag 
+NBS Nutzungsbedingungen für Serviceeinrichtungen 
+öBL örtliche Betriebsleitung 
+SbV Sammlung betrieblicher Vorschriften (für die Serviceeinrichtung) 
+Tf/Lrf Triebfahrzeugführer/Lokrangierführer 
+VDV Verband Deutscher Verkehrsunternehmen e. V. 
+ZB Zugangsberechtigter gem. § 1 Abs. 12 Nr. 1 bzw. 2b ERegG 
+ 
+ 
+ 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 4 von 15 
+ 
+Vorbemerkungen 
+Die Gleisinfrastruktur zwischen der DB -Strecke 2271 (Güterstrecke Oberhausen -Spellen) und 
+dem Hafen Emmelsum (Weststrecke) bzw. dem Industrie - und Gewerbepark in Hünxe-Bucholt-
+welmen (Oststrecke) wird bei der Landeseisenbahnverwaltung unter den Anschlussnummern Ap 
+1944-00, 1955-00, 1955-07 und 1955-08 geführt und war bis zur Neugründung der Hafengesell-
+schaft DeltaPort GmbH & Co.KG (DeltaPort) Eigentum des Kreises We sel Eigenbetrieb Hafen 
+Emmelsum (heute Eigenbetrieb Kreis Wesel).  
+Mit dem Zusammenschluss der Häfen im „LippeMündungsraum“ (Stadthafen Wesel, Rhein -
+Lippe-Hafen und Hafen Emmelsum) in der neuen Hafengesellschaf t wurde die unmittelbar im 
+Hafen Emmelsum gelegene Gleisinfrastruktur (Ap 1944 -00, 1955 -07 und 1955 -08) vom Kreis 
+Wesel als Gesellschafter in die neue Gesellschaft eingebracht  und wird seitdem als „Hafenbahn 
+Emmelsum“ bezeichnet. Die Strecke zwischen der Anschlussgrenze DB und dem Hafen Emmel-
+sum bzw. dem Industrie- und Gewerbepark in Hünxe-Bucholtwelmen wird als „Kreisbahn“ weiter-
+hin unter der Anschlussnummer  Ap 1955-00 geführt und steht nach wie vor im Eigentum des 
+Kreises Wesel (Eigenbetrieb Kreis Wesel).  
+Sowohl DeltaPort als auch der Eigenbetrieb Kreis Wesel sind öffentliche Eisenbahninfrastruktur-
+unternehmen (EIU) nach § 2 Abs. 9 Allgemeinem Eisenbahngesetz (AEG). Aufgrund der Rege-
+lung in § 38 Abs. 2 AEG ist die Verordnung über den Bau und Betrieb von Anschlussbahnen des 
+Landes Nordrhein-Westfalen vom 31.10.1966 (BOA) weiterhin anzuwenden. 
+Der Kreis Wesel - Eigenbetrieb Kreis Wesel - ist Genehmigungsinhaber der eisenbahnrechtlichen 
+Genehmigungen für die Kreisbahn und insofern öffentlich-rechtlich verpflichtetes EIU. Alle hoheit-
+lichen Rechte im Zusammenhang mit dem Betrieb der Kreisbahn verbleiben beim Eigenbetrieb 
+Kreis Wesel. DeltaPort übernimmt die operative Netzbetriebsführung als Erfüllungsgehilfe im Na-
+men und auf Rechnung des Eigenbetriebs Kreis Wesel. 
+DeltaPort ist öffentlich-rechtlich verpflichtetes EIU im Bereich der Hafenbahn Emmelsum. Delta-
+Port führt auf der eigenen Infrastruktur (Hafenbahn) und im Auftrag des Eigenbetriebs Kreis We-
+sel auf de r Kreisbahn gesamtverantwortlich den Betrieb und stellt die örtliche Betriebsleitung 
+(öBL). Für Störungen und Notfälle hat DeltaPort ein Notfallmanagement gem. der Betriebsunfall-
+vorschrift für nichtbundeseigene Eisenbahnen (BUVO-NE) eingerichtet.  
+Beide Unternehmen haben einen gemeinsamen Eisenbahnbetriebsleiter (EBL) bestellt und er-
+mächtigt, eine „Gemeinsame Anweisung für den Eisenbahnbetriebsdienst im Bereich der Kreis-
+bahn und der Hafenbahn Emmelsum “ („Gemeinsame Bedienungsanweisung “) aufzustellen. 
+Diese ist Bestandteil der Sammlung betrieblicher Vorschriften (SbV) und enthält eine umfassende 
+Beschreibung der Eisenbahninfrastruktur, detaillierte Handlungsanweisungen für die in der Ser-
+viceeinrichtung agierenden Eisenbahnverkehrsunternehmen (EVU), die Hinweise zum Notfallma-
+nagement sowie alle maßgeblichen Kontaktdaten. 
+Um für alle Zugangsberechtigten (ZB) gem. § 1 Abs. 12 Eisenbahnregulierungsgesetz (ERegG) 
+eine diskriminierungsfreie Nutzung der Serviceeinrichtung zu gewährleisten, haben der Eigenbe-
+trieb Kreis Wesel und DeltaPort für die Nutzung der Kreisbahn und der Hafenbahn Emmelsum 
+Nutzungsbedingungen aufgestellt, deren „Allgemeiner Teil“ (NBS-AT) vollumfänglich den Muster-
+Nutzungsbedingungen des VDV 2024 entspricht. 
+DeltaPort ist als Betriebsführer in der Kreisbahn ermächtigt, im Bereich der gesamten Eisen-
+bahninfrastruktur Kreisbahn/Hafenbahn Emmelsum einheitliche Zugangs - und Nutzungs bedin-
+gungen für Zugangsberechtigte aufzustellen, Nutzungsverträge abzuschließen und auf Basis ab-
+gestimmter Entgeltgrundsätze (EGS) Nutzungsentgelte festzulegen und zu veröffentlichen.  
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 5 von 15 
+ 
+Die abweichenden bzw. ergänzenden Regelungen zu den NBS -AT sowie die Entgeltgrundsätze 
+sind in dem hier vorliegenden „Besonderen Teil“ der Nutzungsbedingungen (NBS-BT) aufgeführt. 
+Die mit dem Eigenbetrieb Kreis Wesel abgestimmten Nutzungsbedingungen (NBS-AT/BT/EGS), 
+die Entgeltliste und die „Gemeinsame Bedienungsanweisung“ sind auf der Homepage von Delta-
+Port unter https://www.deltaport.de/haefen-bahnen/ abrufbar. 
+ 
+1. Ergänzungen und Abweichungen zu/von den NBS-AT 
+ 
+zu Punkt 1 NBS-AT (Zweck und Geltungsbereich)  
+Voraussetzung für die Nutzung der Eisenbahninfrastruktur ist der Abschluss eines Infra-
+strukturnutzungsvertrages (INV). Der INV regelt die Ein - und Ausfahrt de r EVU, deren 
+Rangierfahrten innerhalb der Kreisbahn/Hafenbahn Emmelsum und die Vermittlung der 
+Orts- und Streckenkenntnis durch die öBL. 
+Im Bereich der Kreisbahn/Hafenbahn Emmelsum finden ausschließlich Rangierbewegun-
+gen im Güterverkehr statt. 
+Rangier- und Serviceleistungen, sowie Umschlagleistungen im Hafen gehör en nicht zum 
+Leistungsangebot des EIU. Allerdings können in den angeschlossen Hafenterminals wei-
+tere Dienstleistungen (Umschlag, Verladung etc.) abgerufen werden, die nicht zum Leis-
+tungsangebot des EIU zählen.  
+Zu Umfang und Art der durch Dritte angebotenen Leistungen wird auf die sog enannten 
+„Hafensteckbriefe“ hingewiesen. Diese können ebenfalls auf der Homepage von DeltaPort 
+unter https://www.deltaport.de/haefen-bahnen/ abgerufen werden. 
+Das EIU ist für den betriebs- und verkehrssicheren Zustand der Infrastrukturanlagen ver-
+antwortlich.  
+Für den betriebs- und verkehrssicheren Zustand und die Betriebsdurchführung in den Ne-
+benanschlüssen sind die Nebenanschließer verantwortlich. Die Durchführung der Bedie-
+nung in den Nebenanschlüssen ist in Bedienungsverträgen zwischen dem jeweiligen Ne-
+benanschließer und dem bedienenden EVU zu regeln. 
+ 
+zu Punkt 2.1. NBS-AT (Allgemeine Zugangsvoraussetzungen) 
+Grundsätzlich gelten für jeden Nutzer der Serviceeinrichtung d ie in der „Gemeinsamen 
+Bedienungsanweisung“ aufgeführten Vorschriften in der jeweils gültigen Fassung. Weiter-
+gehende gesetzliche Vorschriften bleiben hiervon unberührt. 
+Über die Durchführung von außergewöhnlichen Transporten (Schwertransporte, Lade-
+maßüberschreitungen) entscheidet im Einzelfall der EBL von DeltaPort. Erforderliche 
+Nachweise hat das EVU auf seine Kosten zu erbringen.  
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 6 von 15 
+ 
+zu Punkt 2.3.1 NBS-AT (Anforderungen an das Personal) 
+Im Bereich der Kreisbahn /Hafenbahn Emmelsum gilt die Verordnung über den Bau und 
+Betrieb von Anschlussbahnen des Landes Nordrhein -Westfalen vom 31.10.1966  (BOA) 
+im jeweils aktuellen Stand. 
+ 
+zu Punkt 2.3.3 NBS-AT (Ortskenntnis) 
+Die von den EVU eingesetzten Rangierleiter (Tf/Lrf) müssen über die erforderliche Orts - 
+und Streckenkenntnis verfügen. Die öBL vermittelt die Orts- und Streckenkenntnis vor der 
+ersten Fahrt gegen Entgelt gem. jeweils gültiger Entgeltliste. Der Termin für die Einwei-
+sung soll mindestens 7 Tage vor der ersten Fahrt bei der öBL beantragt werden.  
+Die übliche Betriebszeit der öBL umfasst den Zeitraum von Montag bis Freitag jeweils von 
+07:00 bis 15:30 Uhr. Außerhalb der Betriebszeit ist die öBL bei Bedarf im Rahmen einer 
+24/7-Rufbereitschaft erreichbar (Kontaktdaten siehe „Gemeinsame Bedienungsanwei-
+sung“). 
+Die eingewiesenen Personen dürfen betriebsintern weitere Personen einweisen. Dem EIU 
+ist stets eine aktuelle Liste aller eingewiesenen Personen des EVU zur Verfügung zu stel-
+len.  
+Soweit das Betriebspersonal des EVU die Kreisbahn/Hafenbahn Emmelsum nicht regel-
+mäßig befährt, gilt die Orts- und Streckenkenntnis sechs Monate nach der letzten Befah-
+rung als erloschen und ist bei Wiederaufnahme der Befahrung erneut gegen Entgelt zu 
+erwerben.  
+Sollte der eingesetzte Rangierleiter nicht über die erforderliche Orts- und Streckenkennt-
+nis verfügen, ist ein Befahren der Kreisbahn/Hafenbahn Emmelsum nur unter Einbezie-
+hung eines vom EIU gegen Entgelt gem. jeweils gültiger Entgeltliste gestellten Lotsen zu-
+lässig.  
+ 
+zu Punkt 2.4 NBS-AT (Anforderungen an die Fahrzeuge) 
+Im Bereich der Kreisbahn/Hafenbahn Emmelsum gilt die Verordnung über den Bau und 
+Betrieb von Anschlussbahnen des Landes Nordrhein -Westfalen vom 31.10.1966  (BOA) 
+im jeweils aktuellen Stand. 
+Die vom EVU eingesetzten Triebfahrzeuge müssen mit Sprechfunk (geschobene Einhei-
+ten) sowie mit Mobilfunk für Kontakte zu anderen innerhalb der Kreisbahn/Hafenbahn Em-
+melsum befindlichen EVU, zur öBL und zum DB -Fahrdienstleiter ausgestattet sein. Die 
+entsprechenden Geräte sind vom EVU vorzuhalten. Die Verträglichkeitsprüfung der ge-
+nutzten Funkfernsteuerungsfrequenzen im Einsatzbereich obliegt dem EVU. 
+ 
+zu Punkt 2.5.3 NBS-AT (Finanzgarantie) 
+Bei Stellung einer Finanzgarantie wird die Verpfändung beweglicher Sachen generell aus-
+geschlossen.  
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 7 von 15 
+ 
+zu Punkt 3. NBS-AT (Benutzung der Eisenbahninfrastruktur) 
+Grundsätzlich ist die Nutzung der Eisenbahninfrastruktur jederzeit  nach Abschluss eines 
+Infrastrukturnutzungsvertrages (INV) möglich.  
+ 
+zu Punkt 3.1.2 NBS-AT (Besondere Vorschriften des EIU) 
+Die für die Betriebsdurchführung im Bereich der Kreisbahn/Hafenbahn Emmelsum gelten-
+den Vorschriften sind in der „Gemeinsamen Bedienungsanweisung“ aufgeführt. 
+ 
+zu Punkt 3.2 NBS-AT (Anträge auf Nutzung von Serviceeinrichtungen) 
+Voraussetzung für die Nutzung der Eisenbahninfrastruktur ist der Abschluss eines INV. 
+Das Zugangsverfahren ist zweistufig ausgestaltet. In der 1. Stufe beantragt der Zugangs-
+berechtigte (ZB) den Abschluss eines INV. In der 2. Stufe beantragt der Z B die konkrete 
+Nutzung. 
+Der INV wird auf Antrag und bei Vorliegen der entsprechenden Voraussetzungen mit je-
+dem ZB i.S.d. § 1 Abs. 12 ERegG geschlossen, mithin mit EVU und auch mit anderen 
+Nutzungsberechtigten (Nebenanschließern, Terminalbetreibern, etc.). Je nach dem, ob 
+der ZB selbst als EVU die Eisenbahninfrastruktur nutzt oder ein EVU als Dienstleister be-
+auftragt, unterscheidet sich der Regelungsinhalt des INV. Im Fall, dass ein vom ZB beauf-
+tragtes EVU die Eisenbahninfrastruktur nutzt, werden Bestimmungen zur Betriebssicher-
+heit zwischen dem EIU und dem EVU gesondert vereinbart (§ 21 ERegG). 
+ 
+Phase 1 „Abschluss eines INV“ 
+ 
+a) Anträge auf Abschluss eines INV können jederzeit mit den entsprechenden Nachwei-
+sen gem. Punkt 2.1 NBS-AT von ZB im Sinne von § 1 Abs. 12 ERegG  in deutscher 
+Sprache beim EIU gestellt werden. Die Antragstellung ist sowohl schriftlich (per Brief) 
+als auch in elektronischer Form (E-Mail) möglich. Die Kontaktdaten sind auf der Home-
+page von DeltaPort unter https://www.deltaport.de/kontakt abrufbar. 
+b) Mit dem Antrag sind mindestens folgende Angaben zu übermitteln: 
+• Name, Anschrift, Kommunikationsdaten des Antragstellers, 
+• Voraussichtliche(r) Zeitpunkt(e) der konkreten Nutzung, Strecke,  
+• Triebfahrzeuggattung und -ausrüstung, 
+• Zuglänge, Zugmasse, ggf. Radsatzlast/Streckenlast. 
+• Angabe, ob Antragsteller selbst das nutzende EVU sein wird oder  ein EVU (als 
+Dienstleister) einsetzen wird und Nennung des EVU. 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 8 von 15 
+ 
+c) Das EIU wird dem ZB unverzüglich, spätestens innerhalb von fünf Arbeitstagen nach 
+Zugang des vollständigen Antrags, den vom EIU unterzeichneten INV ( Angebot) in 
+zweifacher Ausfertigung zusenden oder den Antrag begründet ablehnen. 
+d) Der INV wird wirksam geschlossen, sobald der ZB den vom EIU übersendeten INV 
+ebenfalls unterzeichnet und eine der gegengezeichneten Ausfertigungen dem EIU zu-
+geht (Annahme des Angebotes).  
+e) Das Recht zur Nutzung der Eisenbahninfrastruktur steht gem. INV unter der aufschie-
+benden Bedingung, dass sich das nutzende EVU als Nutzungsberechtigter DeltaPort 
+gegenüber zur Einhaltung der Vertragsbestandteile des INV über die Betriebssicher-
+heit im Rahmen des INV verpflichtet hat.   
+f) Ist der antragstellende ZB nicht selbst das nutzende EVU, sondern beauftragt ein EVU 
+damit, entsteht das Recht zur Nutzung erst dann, wenn DeltaPort beide unterzeich-
+neten INV der beiden N utzungsberechtigten vorliegen. Die Nutzung der Eisen-
+bahninfrastruktur darf nicht ausgeübt werden, solange diese Voraussetzung nicht er-
+füllt ist.  
+In diesem Falle gelten  
+(1) für das nutzende EVU nur die Vertragsbestandteile über die Betriebssicherheit 
+des INV, da dieses EVU in der unmittelbaren Sicherheitsverantwortung steht, 
+(2) für den das EVU beauftragenden ZB gelten alle übrigen Vertragsbestandteile  
+des INV, nicht aber die Vertragsbestandteile über die Betriebssicherheit des INV. 
+ 
+Phase 2 „Konkrete Nutzung“ 
+Nach erfolgreichem Vertragsabschluss i. S. der Phase 1  sowie dem Nachweis der Orts- 
+und Streckenkenntnis oder der Vereinbarung zur Gestellung eines Lotsen erfolgt die kon-
+krete Nutzung der Eisenbahninfrastruktur jeweils im Rahmen eines sogenannten 
+ 
+Selbst-Koordinierungsverfahrens (Regelfall). 
+Die Einfahrt in die Kreisbahn ist maßgeblich durch die Zuteilung von Kapazitäten durch 
+die Fahrdienstleitung der DB -InfraGo AG auf der ( weitgehend eingleisigen) Zuführungs-
+strecke Oberhausen – Spellen (DB 2271) geprägt.  
+EVU, die über einen entsprechenden Slot für das Befahren der DB-Strecke 2271 verfü-
+gen, steht der Einfahrt in die Kreisbahn/Hafenbahn Emmelsum grundsätzlich nichts ent-
+gegen. Die Kapazität für Rangierfahrten innerhalb der Serviceeinrichtung ist gegeben. 
+Die Notwendigkeit einer gesonderten Slotvergabe durch das EIU entfällt somit.  
+ 
+ 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 9 von 15 
+ 
+Im Rahmen des Selbst-Koordinierungsverfahrens stimmen sich die gleichzeitig in der Ser-
+viceeinrichtung agierenden EVU eigenständig für die gesamte Zeit ihres Aufenthalts un-
+tereinander ab, die öBL koordiniert nur im Bedarfsfall, z. B. bei Nichterreichbarkeit der 
+EVU untereinander oder zur Konfliktlösung.  
+Das Verfahren gewährleistet seit 2007 für die beteiligten EVU weitestgehend freizügigen 
+Zugang zur Serviceeinrichtung. 
+Das Verfahren basiert auf folgenden Grundsätzen: 
+• Der verantwortliche Rangierleiter eines einfahrenden EVU hat sich beim Befahren der 
+Zuführungsstrecke (DB 2271) im Bahnhof Walsum mit seinen Kontaktdaten in ein Zug-
+meldebuch einzutragen und später nach der Ausfahrt wieder auszutragen. Derzeit er-
+folgt dies analog über ein im Bf. Walsum ausliegendes Fahrtenbuch. Zukünftig soll das 
+Zugmeldebuch in digitaler Form zum Einsatz kommen. Die Verfahrensweise ist in bei-
+den Fällen gleich. Einzelheiten sind in der „Gemeinsamen Bedienungsanweisung“ auf-
+geführt. 
+• Anhand der Eintragungen im Zugmeldebuch hat der jeweilige Rangierleiter Kontakt zu 
+den in der Serviceeinrichtung befindlichen EVU aufzunehmen, diese über sein geplan-
+tes Ziel (Terminal/Bestimmungsort) zu informieren und eine gegenseitige Standortbe-
+stimmung vorzunehmen. 
+• In gleicher Weise müssen  die Rangierleiter ihre Rangierfahrten f ür die gesamte Zeit 
+ihres Aufenthaltes im Bereich der Kreisbahn/Hafenbahn Emmelsum untereinander ab-
+stimmen. 
+• Wird bei der Einfahrt ein anderes bereits eingefahrenes EVU nicht erreicht  oder bei 
+Störungen im zukünftigen digitalen Anmeldeverfahren, muss vor Einfahrt in die Kreis-
+bahn am Endpunkt der Zuführungsstrecke (DB 2271) gewartet und die öBL von Del-
+taPort verständigt werden. In diesem Fall wird die öBL unter Einbeziehung der Termi-
+nals eine Kommunikation herstellen. Analog gilt dies auch für Abstimmungen unterei-
+nander während des Aufenthalts in der Serviceeinrichtung. 
+ 
+zu Punkt 3.3 NBS-AT (Behandlung konfligierender Anträge und Nutzungen) 
+Die Konfliktlösung unter Beteiligung der öBL findet in den Fällen Anwendung, in denen 
+aufgrund des Selbst-Koordinierungsverfahrens zwei oder mehr konkurrierende Nutzungs-
+interessen nicht einvernehmlich durch die Zugangsberechtigten selbst gelöst werden kön-
+nen. 
+In einem solchen Fall, geht die öBL im Rahmen des § 13 ERegG mit dem Ziel einer ein-
+vernehmlichen Lösung wie folgt vor: 
+• Die öBL nimmt unverzüglich Kontakt mit allen von einem Konflikt betroffenen ZB zeit-
+gleich auf und weist dabei – soweit vorhanden – auf eine tragfähige Alternative hin. 
+Alle Betroffenen sind mit gleichem Informationsstand an den Verhandlungen zu betei-
+ligen.  
+Grundsätzlich gelten hierbei folgende Prioritäten: 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 10 von 15 
+ 
+­ Dringliche Hilfszüge (z. B. bei Entgleisungen) haben Vorrang vor allen anderen 
+Fahrten, 
+­ Ganzzüge haben Vorrang vor Einzelwagenverkehren, 
+­ Rangierverkehre in Zusammenhang mit einem direkten Umschlag Bahn/Schiff 
+bzw. Schiff/Bahn haben Vorrang vor anderen Rangierverkehren. 
+• Ist die Prioritätenlage nicht eindeutig oder k ann mit Hilfe der öBL keine einvernehmli-
+che Lösung erzielt werden, entscheidet die öBL nach dem Prinzip „first come – first 
+served“, falls dies nicht eindeutig zuzuordnen ist, entscheidet das Los. 
+• Einzelheiten zum Verfahren und eine detaillierte Beschreibung enthält die „Gemein-
+same Bedienungsanweisung“. 
+ 
+zu Punkt 4.1 NBS-AT (Nutzungsentgelt) 
+DeltaPort ist als Betriebsführerin der Kreisbahn ermächtigt, für die Kreisbahn und die Ha-
+fenbahnen gemeinsame Entgeltgrundsätze und Nutzungsentgelte festzulegen und zu ver-
+öffentlichen. Die jeweils aktuelle Entgeltliste ist auf der Homepage von DeltaPort unter 
+https://www.deltaport.de/haefen-bahnen/ abrufbar. 
+ 
+zu Punkt 5.1-5.3 NBS-AT (Rechte und Pflichten der Vertragsparteien) 
+Die Kontaktdaten des verantwortlichen EBL und der öBL von DeltaPort sowie Einzelheiten 
+zur gegenseitigen Information sind der „Gemeinsamen Bedienungsanweisung“ zu entneh-
+men. 
+EVU haben sich vor dem Befahren der Kreisbahn/Hafenbahn Emmelsum über die aktuell 
+hier gemeldeten Störungen und Maßnahmen durch Einsicht auf der Homepage              
+https://www.deltaport.de/haefen-bahnen/wichtige-mitteilungen/ zu informieren. 
+Bei Störungen in der Betriebsabwicklung werden die ZB über das Ausmaß und die ge-
+schätzte Dauer der Störung unverzüglich über die Veröffentlichung der Informationen auf 
+der Homepage https://www.deltaport.de/haefen-bahnen/wichtige-mitteilungen informiert. 
+In einem solchen Fall gibt der EBL bzw. die öBL unmittelbar bei Bekanntwerden der Stö-
+rung eine entsprechende Betriebsanweisung („Betra“) heraus, die auch auf der Home-
+page https://www.deltaport.de/haefen-bahnen/wichtige-mitteilungen eingestellt wird. 
+Bei geplanten Veränderungen der Eisenbahninfrastruktur bzw. bei geplanten Instandhal-
+tungs- und Baumaßnahmen werden die EVU ebenfalls in der beschriebenen Art und 
+Weise informiert. 
+Als unverbindliche Serviceleistung wird DeltaPort auch benannte Ansprechpartner der 
+Nutzungsberechtigten per Email informieren. DeltaPort übernimmt für diese unverbindli-
+che Serviceleistung keine Haftung. Die Verpflichtung der EVU, sich selbst vor Befahren 
+der Kreisbahn/Hafenbahn Emmelsum zu informieren, bleibt unberührt. 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 11 von 15 
+Notfallmanagement 
+Bei Störungen, Unfällen und sonstigen gefährlichen Ereignissen im Bahnbetrieb greift das 
+Notfallmanagement gem. BUVO -NE. Einzelheiten sind in der „Gemeinsamen Bedie-
+nungsanweisung“ festgelegt. 
+Der jeweils diensthabende Mitarbeiter der öBL nimmt die Funktion der Unfallmeldestelle 
+und des Notfallmanagers wahr. Die BUVO-NE und die entsprechenden Handlungsanwei-
+sungen, insbesondere die Unfallmeldetafeln der BUVO-NE, sind Bestandteil der „Gemein-
+samen Bedienungsanweisung“ und für das EVU bindend. 
+Der Ereignisort darf nach einem Zwischenfall so lange nicht verändert werden, bis der 
+Notfallmanager die Unfallstelle/Ereignisort (ggf. auch telefonisch) freigegeben hat. Ge-
+fährliche Ereignisse sind auch das Auffahren von Weichen und das Vorbeifahren an Ha lt 
+zeigenden Signalen. Die Meldung an die Unfallmeldestelle entbindet das EVU nicht von 
+seiner Pflicht zur sofortigen Information der Rettungskräfte (beispielsweise der Feuerwehr 
+oder Polizei). 
+Da das EIU über keine eigene Aufgleistechnik verfügt, stellt das EVU im Bedarfsfall die 
+erforderliche Aufgleistechnik einschließlich Personal eigenverantwortlich zur Verfügung. 
+Für ausgesetzte Schadwagen haben EVU dem EIU die vorgesehenen Maßnahme n un-
+verzüglich verbindlich mitzuteilen.  
+ 
+zu Punkt 5.4 NBS-AT (Prüfungs- und Betretungsrecht, Weisungsbefugnis) 
+Vom EVU eingesetztes Personal muss sich jederzeit ausweisen können (Personalaus-
+weis oder Reisepass). 
+Die vom EVU genutzte Eisenbahninfrastruktur fällt u. U. unter den Anwendungsbereich 
+des Gesetzes über die Sicherheit in Häfen und Hafenanlagen NRW (Hafensicherheitsge-
+setz HaSiG) in der jeweils gültigen Fassung. In diesem Fall ist im Gefahrenfall den Anwei-
+sungen der zuständigen Beauftragten zur Gefahrenabwehr und ihrer Bevollmächtigten 
+Folge zu leisten. 
+Die je nach Gefahrenstufe beim Vollzug des Hafensicherheitsgesetzes (HaSiG) angeord-
+neten Maßnahmen (z. B. Einschränkungen, Verbote) können vom EIU nicht beeinflusst 
+werden. Für hieraus entstehende Nachteile bei der Nutzung der Infrastruktur (z. B. Still-
+stand, Einschränkungen, Ausfälle) übernimmt das EIU keine Haftung, sofern nicht ein Ver-
+schulden des EIU vorliegt. 
+ 
+zu Punkt 6.1.3 NBS-AT (Haftung) 
+Abweichend von den NBS -AT wird der Ersatz eigener Sachschäden im Verhältnis zwi-
+schen EIU und EVU nicht ausgeschlossen, wenn der Sachschaden eines Beteiligten den 
+Betrag von 500 Euro übersteigt. 
+ 
+ 
+ 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 12 von 15 
+zu Punkt 7.2 NBS-AT (Meldung von Umweltgefährdungen) 
+ 
+Allgemeine Geschäftszeiten DeltaPort Montag - Donnerstag  08:00 bis 17:00 Uhr,  
+ Freitag  08:00 bis 16:30 Uhr 
+ 
+Örtliche Betriebsleitung DeltaPort Montag - Freitag 07:00 bis 15:30 Uhr 
+ übrige Zeit  Rufbereitschaft 24/7 
+ 
+2. Beschreibung der Eisenbahninfrastruktur 
+Die Kreisbahn ist über eine zum großen Teil eingleisige Zuführungsstrecke (DB 2271) der 
+DB-InfraGo AG mit einer Länge von ca. 25 km vom Bahnhof Walsum aus erreichbar. Die 
+Kreisbahn selbst besteht aus einzelnen Verbindungen zwischen den Terminals im Hafen 
+(Weststrecke 3,5 km Gleislänge), der Oststrecke (2,0 km Gleislänge) und einem gemein-
+samen Ein- und Ausfahrtbereich (2,35 km Gleislänge), der unmittelbar an die DB-Strecke 
+anschließt. 
+Die Oststrecke ist eine eingleisige Zuführungsstrecke in Richtung Hünxe-Bucholtwelmen. 
+Nach dem Wegfall der ehemaligen BP -Raffinerie und weitere r Nebenanschlüsse in den 
+1980er-Jahren war die Oststrecke vorübergehend ruhend gestellt worden. Nach zwi-
+schenzeitlich erfolgter Reaktivierung wurde sie 2025 wieder in Betrieb genommen. 
+Auf der Weststrecke gibt es eine dreigleisige Rangiergruppe für Rangiervorgänge und das 
+Abstellen von Eisenbahnfahrzeugen.  
+Im Einfahr- bzw. Ausfahrbereich beider Strecken gibt es einen Wendebereich und einen 
+Wartebereich für Begegnungsverkehre bei der Ein- und Ausfahrt. 
+Mehrere zugangsberechtigte Betriebe sind direkt an die Kreisbahn angeschlossen  (Ne-
+benanschließer). 
+Über die Anschlüsse der Hafenbahn Emmelsum an die Kreisbahn West bei Bahn-km 3,15 
+(Ap 1944-00) und Bahn-km 3,5 (Ap 1955-07 und Ap 1955-08) sind die Terminals im Hafen 
+Emmelsum angeschlossen. 
+Eine umfassende Beschreibung der Serviceeinrichtun g ist in der „Gemeinsamen Bedie-
+nungsanweisung“ enthalten. Zwei zugehörige Systempläne der Gleisanlagen sind eben-
+falls unter https://www.deltaport.de/haefen-bahnen/ abrufbar. 
+ 
+3. Entgeltgrundsätze (EGS) 
+ 
+Allgemeines 
+Die nachfolgenden EGS gelten für die gesamte Eisenbahninfrastruktur der Kreisbahn/Ha-
+fenbahn Emmelsum (Serviceeinrichtung).  
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 13 von 15 
+Die Serviceeinrichtung dien t in der Hauptsache der Anbindung der Hafenterminals und 
+der Nebenanschließer. In de r Rangiergruppe steht in begrenztem Umfang Kapazität für 
+das zeitlich befristete Abstellen von Eisenbahnwagen zur Verfügung. 
+In den EGS werden die Grundsätze dargelegt, nach denen Z ugangsberechtigte ein Ent-
+gelt für die Nutzung der Eisenbahninfrastruktur und damit verbundene Leistungen zu zah-
+len haben. 
+Die EGS sind mit dem Eigenbetrieb Kreis Wesel abgestimmt. 
+ 
+3.1 Anmeldeentgelt 
+Für den Abschluss eines INV einschließlich erstmaliger Vermittlung der Ortskenntnis wird 
+einmalig ein pauschaliertes Anmeldeentgelt erhoben. Hiermit sind alle Leistungen im Zu-
+sammenhang mit der Bearbeitung von Anträgen auf Nutzung der Serviceeinrichtung und 
+der Bereitstellung der notwendigen Informationen abgegolten. 
+ 
+3.2 Infrastrukturnutzungsentgelt 
+Für die Fahrten auf der Eisenbahninfrastruktur wird ein Entgelt auf Basis der Ladungsge-
+wichte (konventioneller Wagenladungsverkehr) bzw. der transportierten Ladungseinhei-
+ten (kombinierter Verkehr) bzw. der Anzahl der sonstigen Schienenfahrzeuge  erhoben 
+und dem Zugangsberechtigten in Rechnung gestellt.  
+Es wird wie folgt unterschieden:  
+ 
+Entgelt je Fahrt und Richtung 
+• bei Schüttgut, Stückgut, Flüssiggut je transportierte Tonne, 
+• bei Containertragwagen je beladene/leere KV-Einheit (Container), 
+• bei sonstigen Schienenfahrzeugen (z. B. Gleispflug, Kranwagen, ZWF) je Wagen. 
+Die Höhe des Entgeltes richtet sich nach den in der jeweils gültigen Entgeltliste ausgewie-
+senen Abrechnungsparametern. Diese basieren auf dem durchschnittlichen Gesamtkos-
+tenaufwand für die gesamte Eisenbahninfrastruktur pro Jahr in einem mehrjährigen Be-
+trachtungszeitraum, bezogen auf die im gleichen Zeitraum durchschnittlich pro Jahr durch-
+geführten Bahnverfrachtungen sowohl im konventionellen als auch im kombinierten oder 
+Einzelwagenverkehr. 
+Die Nutzung der Eisenbahninfrastruktur in den Terminals erfolgt ohne gesonderte Berech-
+nung. Terminalspezifische Dienstleistungen für EVU sind mit dem jeweiligen Terminalbe-
+treiber zu vereinbaren. 
+ 
+3.3 Nachlässe, Zuschläge auf vorstehendes Nutzungsentgelt 
+Bei Verkehren mit folgenden Merkmalen (Gateway-Verkehre): 
+• Eingang per Bahn oder Schiff in einem der DeltaPort-Häfen, 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 14 von 15 
+• Ausgang per Bahn, 
+• Auftraggeber für Ein- und Ausgang ist der ZB gem. § 1 Abs. 12 ERegG, 
+• die max. Aufenthaltsdauer im Hafen beträgt 3 Tage (72 Stunden),  
+können ZB gem. § 1 Abs. 12 Eisenbahnregulierungsgesetz (ERegG) einen Nachlass für 
+die beladenen KV-Einheiten im Ausgang in Höhe des in der jeweils gültigen Entgeltliste 
+entsprechend ausgewiesenen Entgelts erhalten, sofern dies zuvor zwischen DeltaPort 
+und dem ZB schriftlich vereinbart worden war. Der Nachweis ist durch den Z B zu erbrin-
+gen. 
+Sollten die v. g. Merkmale nachweislich auf einzelne Verkehre im konventionellen Verkehr 
+zutreffen, gelten die Sätze 1 und 2 bezogen auf das im Ausgang anfallende Entgelt ent-
+sprechend. 
+Ergeben sich Beschränkungen der Fahrtmöglichkeiten aus technischen und/oder betrieb-
+lichen Gründen, die länger als vier Stunden andauern und die das EIU zu vertreten hat, 
+so gewährt das EIU einen pauschalen Nachlass in Höhe von 10 %.  
+Sind die Beschränkungen allerdings auf Gründe zurückzuführen, die d er ZB zu vertreten 
+hat und die länger als vier Stunden andauern, erhebt das EIU einen Zuschlag in Höhe von 
+10 %.  
+ 
+3.4 Entgelt für Zusatzleistungen 
+Für den Einsatz von Lotsen in Sonderfällen 
+• Begleitung von außergewöhnlichen Transporten,  
+• ad hoc-Transporte ohne Orts-/Streckenkenntnis (mit gleichzeitiger Vermittlung dersel-
+ben), 
+• erneute Vermittlung der Orts-/Streckenkenntnis, sofern die letzte Befahrung mehr als 
+6 Monate zurückliegt,  
+erhebt das EIU ein Entgelt je Einsatzstunde. 
+ 
+3.5 Entgelte für das Abstellen von Eisenbahnwagen 
+Das zeitlich befristete Abstellen von Eisenbahnwagen ist nur innerhalb der Rangiergruppe 
+und mit vorheriger Zustimmung der öBL   gestattet (max. 620 m). Das Entgelt für die Ge-
+stattung wird pauschal je Kalendertag berechnet. 
+ 
+3.6 Umsatzsteuer und Zahlungsbedingungen 
+a) Umsatzsteuer 
+Das vom ZB zu entrichtende Entgelt wird zuzüglich der gesetzlichen Umsatzsteuer in 
+der jeweils gültigen Höhe berechnet. 
+ 
+NBS-BT KB-HE 2025 DeltaPort GmbH & Co. KG 
+Kreisbahn Ap 1955-00  Moltkestr. 8 
+Hafenbahn Emmelsum Ap 1944-00 / Ap 1955-07/08  46483 Wesel 
+ 
+B_RL_NBSBT_KBHE_20250701_FIN Seite 15 von 15 
+b) Zahlungsweise 
+Das zu entrichtende Entgelt hat der Zugangsberechtigte auf seine Kosten grundsätz-
+lich innerhalb von 30 Kalendertagen nach Zugang der Rechnung auf ein vom EIU zu 
+bestimmendes Konto zu überweisen. 
+c) Aufrechnung, Zurückbehaltung, Minderung  
+Die Vertragspartner können gegen Forderungen des jeweils anderen Vertragspart-
+ners nur aufrechnen, zurückbehalten oder mindern, wenn diese Forderungen unbe-
+stritten oder rechtskräftig festgestellt sind. Dies gilt auch bei Mängelrügen oder gel-
+tend gemachten Gegenansprüchen. Eine Zurückbehaltung ist außerdem nur bei Ge-
+genansprüchen aus demselben Rechtsverhältnis zulässig. 
+ 
+3.7 Entgeltliste 
+Die auf diesen Grundsätzen basierende Entgeltliste ist in der jeweils gültigen Fassung auf 
+der Homepage von DeltaPort unter https://www.deltaport.de/haefen-bahnen/ veröffent-
+licht. 
+ 
+Diese Gem. NBS -BT treten am 01.07.2025 in Kraft, gleichzeitig treten die Gem. NBS -BT vom 
+01.02.2017 außer Kraft. 
+ 
+ 
+DeltaPort GmbH & Co. KG 
+Wesel, den 01.07.2025 
+gez. Andreas Stolte 
+(Geschäftsführer) 
+ 
+ 

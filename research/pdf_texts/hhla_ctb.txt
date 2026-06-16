@@ -1,0 +1,465 @@
+ 
+Seite 1 / 10 
+ 
+   
+ 
+ 
+ 
+Nutzungsbedingungen (NBS)  
+Betrieblicher Teil  
+ 
+ 
+HE - Gleisanschluss Nr. 480 A 
+HHLA Container Terminal Burchardkai  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eisenbahnbetriebsleiter  
+ 
+ 
+  
+ 
+Mörchen-Klaffke  
+ 
+ 
+Gültig ab 14.12.2025 
+
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 2 / 10 
+ 
+Berichtigungen 
+ 
+ 
+Lfd. Nr. 
+ 
+Gültig ab In die NBS eingearbeitet 
+  am durch 
+0 01.05.2008 30.04.2008 Witschkowski/Lange 
+1 18.07.2008 18.07.2008 Witschkowski/Lange 
+2 01.01.2012 29.12.2011 Witschkowski/Lange 
+3 01.09.2013 13.08.2013 Witschkowski/Lange 
+4 01.11.2015 30.09.2015 Stolter/Witschkowski 
+5 01.10.2016 24.08.2016 Stolter/Witschkowski 
+6 01.12.2018 23.11.2018 Stolter 
+7 01.01.2021 21.12.2020 Stolter 
+8 20.06.2021 17.06.2021 Stolter 
+9 14.12.2025 01.12.2025 Mörchen-Klaffke 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Jeweils letzte Änderung durch senkrechten Strich am Seitenrand gekennzeichnet 
+ 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 3 / 10 
+Verteilungsplan: 
+ 
+Geschäftsführung CTB 
+Abteilungsleitung Umschlag Hinterland 
+Abteilungsleitung Planung und Steuerung 
+Abteilungsleitung Terminaladministration 
+HHLA Container Bereich Betrieb 
+EBL/EBLV 
+LEA 
+ 
+ 
+ 
+ 
+ 
+Wichtige Rufnummern der Ansprechpartner: 
+ 
+ 
+CTB Notfallnummer  040 3088 2351  
+Bahnbüro  040 3088 2450 
+   
+Eisenbahnbetriebsleiter (EBL) Linus Mörchen-Klaffke 0175 7324 382 
+Vertreter des EBL Matthias Abraham 0160 5502 396 
+Vertreter des EBL Johannes Heyde 0151 2041 5554 
+E-Mail  
+Notfallmanagement  0171 568 7558 
+   
+Polizei  110 
+Landeseisenbahnaufsicht (LEA)  040 42841 3695 
+ 
+ 
+Inhaltsverzeichnis: 
+Seite 
+ 
+1. Beschreibung des Anschlusses / der Anlage ................................ ................................ ....... 5 
+2. Durchführen der Bedienung ................................ ................................ ................................ . 7 
+3. Aufgaben des Anschließers ................................ ................................ ................................ . 9 
+4. Sonstige Aufgaben ................................ ................................ ................................ ............ 10 
+ 
+ 
+Verzeichnis der Anhänge: 
+ 
+Anhang 
+• Bedienungsanweisung EOW-Anlage CTB        1 
+• Gleislageplan CTB            2 
+ 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 4 / 10 
+VORBEMERKUNGEN 
+ 
+Örtlich eingesetztes Personal der einzelnen EVU m uss die Nutzungsbedingungen (NBS) des 
+HHLA Container Terminal Burchardkai - Betrieblicher Teil, beherrschen. 
+ 
+ 
+ 
+Regelwerke der Deutschen Bahn AG und VDV -Schriften, die auf der 
+Eisenbahninfrastruktur des Gleisanschlusses HE 480 A Anwendung finden: 
+ 
+Bezugsquellen für Regelwerke der Deutschen Bahn AG: 
+ 
+DB Kommunikationstechnik GmbH 
+Medien- und Kommunikationsdienste 
+Logistikcenter (Drucksachenzentrale) 
+Kriegstraße 136 
+76133 Karlsruhe 
+ 
+und Download im Internet. 
+ 
+Bezugsquellen für VDV-Schriften: 
+ 
+VDV Köln 
+Kamekestraße 37-39 
+50672 Köln 
+ 
+Es gelten die jeweils gültigen Fassungen. 
+ 
+Regelwerk – Nr.  Kurzbezeichnung 
+301 Signalbuch 
+408.21-27 Fahrdienstvorschrift; Züge fahren 
+408.48 Fahrdienstvorschrift; Rangieren 
+VDV-Schrift 753 Eisenbahnfahrzeug-Führerschein-Richtlinie  
+VDV-Schrift 755 Streckenkenntnis-Richtlinie 
+482.8002 Signalanlagen bedienen; Ortsgestellte Weichen und Gleissperren, 
+Allgemeines 
+482.8003 Signalanlagen bedienen; Mechanisch ortsgestellte Weichen und 
+Gleissperren bedienen 
+482.8004 Signalanlagen bedienen; Elektrisch ortsgestellte Weichen bedienen 
+TfV Triebfahrzeugführerscheinverordnung 
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 5 / 10 
+1 Beschreibung des Anschlusses / der Anlage 
+1.1  
+a. Grenzen des Anschlusses / der Anlage 
+Das Terminal schließt an den Weichen 12, 40 und 43 bzw. 45 am Bahnhofsteil 
+Mühlenwerder an die HPA an. 
+ 
+b. Beschreibung des CTB / Gleisanlagen und ihre Nutzung (siehe Gleislageplan) 
+Die Anlage besteht aus zwei Modulen.   
+Das Südmodul beginnt unmittelbar hinter den Weichen 12 bzw. 40/43. Hierzu gehören 
+die Ladegleise 11, 12, 13, 14 und 15.  
+Das Nordmodul beginnt unmittelbar nach der Weiche 45. Hierzu gehören die Ladegleise 
+21, 22, 23, 24 und 25. 
+ 
+Alle Ladegleise schließen am Ende durch Bremsprellböcke ab. 
+ 
+ 
+Gleisbezeichnung Nutzlänge unter 
+Kranbahn 
+Nutzlänge ab 
+Grenzzeichen 
+Gleis 11 730 m 768 m 
+Gleis 12 730 m 768 m 
+Gleis 13 730 m 803 m 
+Gleis 14 730 m 800 m 
+Gleis 15 730 m 800 m 
+   
+Gleis 21 730 m 787 m 
+Gleis 22 730 m 787 m 
+Gleis 23 730 m 798 m 
+Gleis 24 730 m 798 m 
+Gleis 25 730 m 854 m 
+ 
+ 
+ 
+1.2 Regelmäßige Betriebszeiten (Kranumschlag) 
+Montag 06:50 Uhr bis 03:30 Uhr Dienstag, 
+Dienstag 06:50 Uhr bis 03:30 Uhr Mittwoch, 
+Mittwoch 06:50 Uhr bis 03:30 Uhr Donnerstag, 
+Donnerstag 06:50 Uhr bis 03:30 Uhr Freitag, 
+Freitag 06:50 Uhr bis 03:30 Uhr Samstag, 
+Samstag 07:00 Uhr bis 18:00 Uhr, 
+Sonntag 07:00 Uhr bis 06:00 Uhr Montag 
+ 
+Wird Bahnabfertigung am Container Terminal Burchardkai außerhalb der regelmäßigen 
+Betriebszeiten benötigt, muss eine Slotanfrage spätestens 14 Kalendertage vor der 
+gewünschten Abfertigung gestellt werden. 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 6 / 10 
+1.3 Gleisanlagen und ihre Nutzung 
+ 
+a. Rangierbezirke  
+Entfällt 
+ 
+b. Anschlussgleise im CTB 
+Entfällt  
+ 
+1.4 Aufbewahrung Sicherungsmittel 
+Entfällt 
+ 
+1.5 Übergabestelle und Bedienungsbereich der EVU 
+Die Übergabestelle ist das jeweilige, durch den Leitstand/das Bahnbüro zugewiesene freie 
+Gleis. 
+ 
+1.6 Halbmesser der Gleise kleiner als 150m 
+Entfällt  
+ 
+1.7 Signalanlagen 
+Entfällt 
+1.8 Bahnübergänge 
+Die Zuführungsgleise in das Nord- und Südmodul werden unmittelbar nach den Weichen 
+44 bzw. 45 durch einen technisch gesicherten Bahnübergang gekreuzt. Der BÜ ist durch 
+Andreaskreuze und eine Ampelanlage gesichert. Die Einschaltung der Anlage erfolgt in 
+Richtung Burchardkai mittels einer Kontaktschleife (Automatik -ET) automatisch. Die 
+Ausschaltung der Überfahrtsicherungsanlage erfolgt nach Befahren des Überweges 
+schienenfahrzeuggesteuert. 
+ 
+1.9 Oberleitungsanlagen mit Schalter (Mastnummer, Schalterangabe) 
+Entfällt 
+ 
+1.10 Sonstige betriebliche Einrichtungen des Gleisanschlusses 
+Die Gleisanlage ist je Modul mit 2 Portalkränen (Transtainerbrücken) ausgerüstet.  
+ 
+1.11 Brücken, Durchlässe 
+Entfällt 
+ 
+1.12 Telekommunikationsanlagen 
+Telefone und Fax-Geräte befinden sich im Bahnbüro. An den Fahrwegstelltafeln 
+befinden sich Gegensprechanlagen. 
+ 
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 7 / 10 
+1.13 Einfriedungen und Tore, Bedienung durch Werkspersonal 
+Hallentore / Bedienung der Hallengleise: 
+Entfällt 
+1.14 Beleuchtung und Lage der Schalter 
+Die Anlage ist bei Dunkelheit beleuchtet. 
+ 
+1.15 Betriebseinschränkungen 
+Höchstzulässiger Grenzwert für Rangierabteilungen:  
+• 700 m 
+• 2.500 t  
+ 
+1.16 Verladeeinrichtungen 
+Es dürfen keine Lasten über Personen und Triebfahrzeuge bewegt werden.  
+ 
+Der Kranbetrieb darf während der Rangierarbeiten weitergeführt werden.  
+ 
+Es wird bei Bewegung über dem Gleisbereich zwischen Spreader bzw. Lastunterkante 
+und Schienenoberkante eine minimale Höhe von 5,30 m eingehalten. 
+ 
+Kleinfahrzeuge (Checkermobile) dürfen während der Rangierarbeiten im Bereich der 
+Ladegleise fahren. 
+ 
+ 
+2 Durchführen der Bedienung 
+2.1 Verständigen des Anschließers über die Bedienung 
+Im Bereich des KLV-Bahnhofs steht bei angekündigten Bedienungsfahrten während der 
+Betriebszeiten ein Beschäftigte des CTB im Bahnbüro zur Verfügung, der für alle an der 
+Bedienungsfahrt beteiligten MA Ansprechpartner ist.  
+Zur Kommunikation sind die an den Fahrwegstelltafeln angebrachten Sprechanlagen zu 
+verwenden. (siehe Anhang 1).  
+Zusätzlich sind für Fahrwegsicherungsgespräche mit dem Bahnbüro CTB durch die 
+EVU Mobiltelefone zu verwenden. 
+ 
+Außerhalb der Betriebszeiten der Eisenbahnanlage wird vom Bahnbüro ein 
+Anrufbeantworter geschaltet, s. Pkt. 2.3. 
+ 
+ 
+2.2 Verwendung der Weichenschlüssel, Abhängigkeiten 
+Siehe Anhang 1 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 8 / 10 
+ 
+2.3 Kommunikation der einzelnen beteiligten EVU und EIU 
+ 
+Die Kommunikation über Rangierfahrten in, aus und innerhalb des Terminals wird vom 
+EVU über das Bahnbüro CTB geführt und dort dokumentiert.  
+Tel: 
+• 040 3088 2450 oder  
+• Sprechanlage an den Fahrwegstelltafeln 
+ 
+a. Einfahrt CTB 
+Jede Bedienfahrt zum Terminal ist dem Stellwerk Ct im Bahnhof Mühlenwerder unter 
+040/42847-3440 anzumelden. 
+ 
+b. Bei Bewegungen von Fahrzeugen im Gleis und bei Gleiswechsel innerhalb des 
+Terminals ist die Zustimmung des Bahnbüros fernmündlich vorab einzuholen.  
+ 
+c. Bei geplanten Ausfahrten verständigt sich das EVU zunächst mit dem Bahnbüro und 
+anschließend mit dem Weichenwärter des Stellwerkes Ct. Ausfahrt unmittelbar nach 
+den Zustimmungen. 
+ 
+d. Außerhalb der CTB Bahn Abfertigungszeiten: 
+Es erfolgt eine entsprechende Ansage über den Anrufbeantworter. Die Anlag e kann 
+dann unter den gegebenen und zu beachtenden Sicherheitsmaßnahmen gemäß des 
+Slot-Planes oder vorheriger Abstimmung befahren werden. 
+ 
+2.4 Zuständigkeiten der EVU 
+ 
+Die Bedienung der EOW Anlage zum Befahren der Krananlage (siehe Anhang 1) erfolgt 
+durch die EVU.  
+ 
+Das Bewegen von Wagen und Triebfahrzeugen ist grundsätzlich nur mit Zustimmung des 
+Bahnbüros des CTB gestattet. 
+ 
+So lange das Be- oder Entladen nicht beendet ist, darf ein Triebfahrzeug nicht näher als 
+5 m an den ersten Wagen heranfahren. 
+Personen dürfen nicht unter schwebende Lasten treten. 
+ 
+Schäden, die durch das EVU an der Infrastruktur verursacht wurden, sind unverzüglich 
+dem Bahnbüro (außerhalb der Betriebszeiten dem Gate, Tel.: 040 3088 2390) 
+anzuzeigen (z.B. Verunreinigungen durch ausgelaufenes Öl, Beschädigung von Sh2 – 
+Scheiben, Verschieben von Prellböcken etc.). 
+ 
+Vor Abfahrt aus dem Terminal ist vom EVU die Fahrbereitschaft festzustellen. Hierbei 
+festgestellte Schäden und Mängel (auch Verlademängel) an Fahrzeugen und Containern 
+sind unverzüglich vor der Abfahrt dem Bahnbüro (040/3088 2450) zu melden und zu 
+dokumentieren. 
+ 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 9 / 10 
+Die Beschäftigten der EVU müssen bei ihrer Tätigkeit außerhalb des Führerstandes ihres 
+Tfz folgende persönliche Schutzausrüstung tragen:  
+ 
+• Warnkleidung der Klasse 3 nach DIN EN ISO 20471 in Kombination lange Hose und 
+ein den Torso bedeckendes Oberteil 
+• Industrieschutzhelm nach DIN EN 397  
+• Sicherheitsschuhe S2 nach DIN EN ISO 20345  
+• Schutzhandschuhe EN 388 (mechanische Schutzwirkung) 
+ 
+Darüberhinausgehende Schutzausrüstung hat jedes EVU in seiner 
+Gefährdungsbeurteilung festzulegen.  
+ 
+ 
+3 Aufgaben des Anschließers 
+3.1 Zuständigkeiten CTB 
+Beim Bewegen von Eisenbahnfahrzeugen durch das EVU hat CTB  seine Gleise von 
+Personen, Straßenfahrzeugen und sonstigen Hindernissen freizuhalten. Die Sicherung 
+höhengleicher Übergänge ist allein Sache CTB. 
+ 
+Gegenstände dürfen nur in einem Abstand von mindestens 2,50 m von der Gleismitte 
+gelagert werden. Das gelagerte Gut muss gegen Anrollen und Umstürzen gesichert sein. 
+ 
+Können die oben genannten Bedingungen aus zwingenden Gründen ausnahmsweise 
+nicht erfüllt werden, so hat CT B das Gleis vor der Gefahrenstelle durch Haltscheibe 
+(Signal Sh 2) zu sperren. Die Signale Sh 2 hat CTB vorzuhalten. 
+ 
+CTB hat die Weichen und Spurrillen der Gleise von Laderückständen und von Schnee 
+und Eis freizuhalten. Das gilt auch für die Rangierwege, die außerdem bei Glättegefahr 
+zu streuen sind. 
+ 
+Der Bahnkranführer darf Lasten nicht über Rangierpersonal und Triebfahrzeuge 
+hinwegführen (s. auch Pkt. 1.16). 
+CTB stellt sicher, dass das Lichtraumprofil (min. 5,30 m über SO) freigehalten wird. 
+ 
+3.2 Be- und Entladen der Eisenbahnwagen  
+Eisenbahnwagen dürfen während der Rangierarbeiten der EVU weder be- noch 
+entladen werden. 
+ 
+ 
+3.3 Warnen der Beschäftigte 
+ 
+Die Beschäftigte von CTB werden durch das Bahnbüro CTB gewarnt. 
+ 
+ 
+  
+ 
+ 
+_____________________________________________________________________________________________ 
+ 
+NBS CTB, REV. 9, 14.12.2025 
+ 10 / 10 
+4 Sonstige Aufgaben 
+4.1 Prüfen des Fahrweges / der Gleisanlagen 
+Das Rangierpersonal des EVU hat während der Bedienung die Fahrwegbeobachtung 
+durchzuführen. Die Zuführung erfolgt als geschobene Rangierabteilung. 
+ 
+4.2 Geschwindigkeit beim Rangieren 
+Grundsätzlich beträgt die Rangiergeschwindigkeit V max. 25 km/h. 50 m vor dem 
+Gleisabschluss ist die Rangiergeschwindigkeit zwingend auf 5 km/h abzusenken. 
+  
+4.3 Rangierseite 
+Als Rangierseite wird die in Fahrtrichtung rechte Seite festgelegt. 
+ 
+4.4 Bremsbesetzung beim Rangieren in Abhängigkeit von der maßgebenden Neigung 
+Es dürfen 30 Wagenachsen ohne wirkende Druckluftbremse bewegt werden. Für je 
+weitere angefangene 10 Wagenachsen ist ein Wagen an die durchgehende 
+Hauptluftleitung anzuschließen. 
+ 
+4.5 Befahren von Bahnübergängen 
+Hinter der Anschlussgrenze schließt ein Bahnübergang an. Der BÜ ist durch 
+Andreaskreuze und eine Ampelanlage gesichert (siehe Anhang 1).  
+ 
+Vor den Portalkränen befindet sich ein betriebsinterner Überweg über alle Gleise, der für 
+die Bahn Check- und Aufsichtsfahrzeuge bestimmt ist. 
+ 
+4.6 Abstoßen von Fahrzeugen 
+Das Abstoßen von Wagen ist in der gesamten Anlage verboten. 
+4.7 Stellung und Reihenfolge der Wagen im Anschluss 
+Entfällt 
+ 
+4.8 Bedienen von sonstigen betrieblichen Einrichtungen 
+Entfällt 
+ 
+4.9 Bedienen der Verladeeinrichtungen 
+Entfällt 
+ 
+4.10 Festlegen abgestellter Fahrzeuge 
+Wagen und Wagengruppen sind mit der Druckluftbremse angebremst abzustellen. 
+4.11 Bedienen von Nebenanschlüssen und Mitbenutzer 
+Entfällt 
+ 
